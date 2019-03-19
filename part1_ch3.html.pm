@@ -2,7 +2,10 @@
 
 ◊chapter-title{The Black Spot}
 
-ABOUT noon I stopped at the captain's door with some cooling drinks and medicines. He was lying very much as we had left him, only a little higher, and he seemed both weak and excited.
+◊img[#:src "/images/0046m.jpg"]{}
+
+◊img[#:src "/images/9046m.jpg" #:alt "A" #:class "drop-cap"]{}
+BOUT noon I stopped at the captain's door with some cooling drinks and medicines. He was lying very much as we had left him, only a little higher, and he seemed both weak and excited.
 
 ◊dialog{"Jim,"} he said, ◊dialog{"you're the only one here that's worth anything, and you know I've been always good to you. Never a month but I've given you a silver fourpenny for yourself. And now you see, mate, I'm pretty low, and deserted by all; and Jim, you'll bring me one noggin of rum, now, won't you, matey?"}
 
@@ -61,6 +64,8 @@ And he gave it, as he spoke, a wrench that made me cry out.
 ◊dialog{"Sir,"} said I, ◊dialog{"it is for yourself I mean. The captain is not what he used to be. He sits with a drawn cutlass. Another gentleman--"}
 
 ◊dialog{"Come, now, march,"} interrupted he; and I never heard a voice so cruel, and cold, and ugly as that blind man's. It cowed me more than the pain, and I began to obey him at once, walking straight in at the door and towards the parlour, where our sick old buccaneer was sitting, dazed with rum. The blind man clung close to me, holding me in one iron fist and leaning almost more of his weight on me than I could carry. ◊dialog{"Lead me straight up to him, and when I'm in view, cry out, 'Here's a friend for you, Bill.' If you don't, I'll do this,"} and with that he gave me a twitch that I thought would have made me faint. Between this and that, I was so utterly terrified of the blind beggar that I forgot my terror of the captain, and as I opened the parlour door, cried out the words he had ordered in a trembling voice.
+
+◊img[#:src "/images/0051m.jpg"]{}
 
 The poor captain raised his eyes, and at one look the rum went out of him and left him staring sober. The expression of his face was not so much of terror as of mortal sickness. He made a movement to rise, but I do not believe he had enough force left in his body.
 

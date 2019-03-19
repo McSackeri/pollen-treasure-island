@@ -12,6 +12,8 @@
   (txexpr 'div '((class "poem-head")) elements))
 (define (poem-body . elements)
   (txexpr 'div '((class "poem-body")) elements))
+(define (note . elements)
+  (txexpr 'div '((class "note")) elements))
 (define (root . elements)
   (txexpr 'root empty (decode-elements elements
                                        #:txexpr-elements-proc decode-paragraphs

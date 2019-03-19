@@ -63,6 +63,12 @@ body {
     font-style: italic;
 }
 
+.note {
+    text-align: left;
+    font-size: 1.25em;
+    padding-left: .75em;
+ }
+
 .drop-cap {
     float: left;
     padding-right: .5em;
