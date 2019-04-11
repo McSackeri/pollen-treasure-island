@@ -82,18 +82,43 @@ h1 {
 h2 {
     font-size: ◊|multiplier|em;
 }
- 
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    background: #f5f5f5;
+    border-radius: 8px;
+}
+
+#nav {
+    width: 100%;
+    overflow: auto;
+}
 #prev, #next {
-    position: fixed;
     top: ◊|(/ edge 2)|em;
+    width: 33%;
 }
  
 #prev {
-    left: ◊|edge|em;
+    left: 0em;
+    float: left;
+
 }
  
 #next {
-    right: ◊|edge|em;
+    right: 0em;
+    float: right;
+
+}
+
+#top {
+    margin: auto;
+    width: 30%;
+    text-align: center;
 }
 
 ol {

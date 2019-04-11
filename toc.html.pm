@@ -7,64 +7,63 @@
      PART ONE
      The Old Buccaneer
 
-     1.  THE OLD SEA-DOG AT THE ADMIRAL BENBOW     11
-     2.  BLACK DOG APPEARS AND DISAPPEARS . . . .  17
-     3.  THE BLACK SPOT . . . . . . . . . . . . .  24
-     4.  THE SEA-CHEST  . . . . . . . . . . . . .  30
-     5.  THE LAST OF THE BLIND MAN  . . . . . . .  36
-     6.  THE CAPTAIN'S PAPERS . . . . . . . . . .  41
+     1.  ◊a[#:href "part1_ch1.html"]{THE OLD SEA-DOG AT THE ADMIRAL BENBOW}
+     2.  ◊a[#:href "part1_ch2.html"]{BLACK DOG APPEARS AND DISAPPEARS}
+     3.  ◊a[#:href "part1_ch3.html"]{THE BLACK SPOT}
+     4.  ◊a[#:href "part1_ch4.html"]{THE SEA-CHEST}
+     5.  ◊a[#:href "part1_ch5.html"]{THE LAST OF THE BLIND MAN}
+     6.  ◊a[#:href "part1_ch6.html"]{THE CAPTAIN'S PAPERS}
 
      PART TWO
-     The Sea Cook
+     ◊a[#:href "part2.html"]{The Sea Cook}
 
-     7.  I GO TO BRISTOL  . . . . . . . . . . . . . 48
-     8.  AT THE SIGN OF THE SPY-GLASS . . . . . . . 54
-     9.  POWDER AND ARMS  . . . . . . . . . . . . . 59
-     10.  THE VOYAGE . . . . . . . . . . . . . . .  64
-     11.  WHAT I HEARD IN THE APPLE BARREL . . . .  70
-     12.  COUNCIL OF WAR . . . . . . . . . . . . .  76
+     7.  ◊a[#:href "part2_ch7.html"]{I GO TO BRISTOL}
+     8.  ◊a[#:href "part2_ch8.html"]{AT THE SIGN OF THE SPY-GLASS}
+     9.  ◊a[#:href "part2_ch9.html"]{POWDER AND ARMS}
+     10.  ◊a[#:href "part2_ch10.html"]{THE VOYAGE}
+     11.  ◊a[#:href "part2_ch11.html"]{WHAT I HEARD IN THE APPLE BARREL}
+     12.  ◊a[#:href "part2_ch12.html"]{COUNCIL OF WAR}
 
      PART THREE
-     My Shore Adventure
+     ◊a[#:href "part3.html"]{My Shore Adventure}
 
-     13.  HOW MY SHORE ADVENTURE BEGAN . . . . . .  82
-     14.  THE FIRST BLOW . . . . . . . . . . . . .  87
-     15.  THE MAN OF THE ISLAND. . . . . . . . . .  93
+     13.  ◊a[#:href "part3_ch13.html"]{HOW MY SHORE ADVENTURE BEGAN}
+     14.  ◊a[#:href "part3_ch14.html"]{THE FIRST BLOW}
+     15.  ◊a[#:href "part3_ch15.html"]{THE MAN OF THE ISLAND}
 
      PART FOUR
-     The Stockade
+     ◊a[#:href "part4.html"]{The Stockade}
 
-     16.  NARRATIVE CONTINUED BY THE DOCTOR:
-            HOW THE SHIP WAS ABANDONED . . . . . . 100
-     17.  NARRATIVE CONTINUED BY THE DOCTOR:
-            THE JOLLY-BOAT'S LAST TRIP . . . . . . 105
-     18.  NARRATIVE CONTINUED BY THE DOCTOR:
-            END OF THE FIRST DAY'S FIGHTING  . . . 109
-     19.  NARRATIVE RESUMED BY JIM HAWKINS:
-            THE GARRISON IN THE STOCKADE . . . . . 114
-     20.  SILVER'S EMBASSY . . . . . . . . . . . . 120
-     21.  THE ATTACK . . . . . . . . . . . . . . . 125
+     16.  ◊a[#:href "part4_ch16.html"]{NARRATIVE CONTINUED BY THE DOCTOR:
+            HOW THE SHIP WAS ABANDONED}
+     17.  ◊a[#:href "part4_ch17.html"]{NARRATIVE CONTINUED BY THE DOCTOR:
+            THE JOLLY-BOAT'S LAST TRIP}
+     18.  ◊a[#:href "part4_ch18.html"]{NARRATIVE CONTINUED BY THE DOCTOR:
+            END OF THE FIRST DAY'S FIGHTING}
+     19.  ◊a[#:href "part4_ch19.html"]{NARRATIVE RESUMED BY JIM HAWKINS:
+            THE GARRISON IN THE STOCKADE}
+     20.  ◊a[#:href "part4_ch20.html"]{SILVER'S EMBASSY}
+     21.  ◊a[#:href "part4_ch21.html"]{THE ATTACK}
 
      PART FIVE
-     My Sea Adventure
+     ◊a[#:href "part5.html"]{My Sea Adventure}
 
-     22.  HOW MY SEA ADVENTURE BEGAN . . . . . . . 132
-     23.  THE EBB-TIDE RUNS  . . . . . . . . . . . 138
-     24.  THE CRUISE OF THE CORACLE  . . . . . . . 143
-     25.  I STRIKE THE JOLLY ROGER . . . . . . . . 148
-     26.  ISRAEL HANDS . . . . . . . . . . . . . . 153
-     27.  "PIECES OF EIGHT"  . . . . . . . . . . . 161
+     22.  ◊a[#:href "part5_ch22.html"]{HOW MY SEA ADVENTURE BEGAN}
+     23.  ◊a[#:href "part5_ch23.html"]{THE EBB-TIDE RUNS}
+     24.  ◊a[#:href "part5_ch24.html"]{THE CRUISE OF THE CORACLE}
+     25.  ◊a[#:href "part5_ch25.html"]{I STRIKE THE JOLLY ROGER}
+     26.  ◊a[#:href "part5_ch26.html"]{ISRAEL HANDS}
+     27.  ◊a[#:href "part5_ch27.html"]{"PIECES OF EIGHT"}
 
      PART SIX
-     Captain Silver
+     ◊a[#:href "part6.html"]{Captain Silver}
 
-     28.  IN THE ENEMY'S CAMP  . . . . . . . . . . 168
-     29.  THE BLACK SPOT AGAIN . . . . . . . . . . 176
-     30.  ON PAROLE  . . . . . . . . . . . . . . . 182
-     31.  THE TREASURE-HUNT--FLINT'S POINTER . . . 189
-     32.  THE TREASURE-HUNT--THE VOICE AMONG
-            THE TREES  . . . . . . . . . . . . . . 195
-     33.  THE FALL OF A CHIEFTAIN  . . . . . . . . 201
-     34.  AND LAST . . . . . . . . . . . . . . . . 207
+     28.  ◊a[#:href "part6_ch28.html"]{IN THE ENEMY'S CAMP}
+     29.  ◊a[#:href "part6_ch29.html"]{THE BLACK SPOT AGAIN}
+     30.  ◊a[#:href "part6_ch30.html"]{ON PAROLE}
+     31.  ◊a[#:href "part6_ch31.html"]{THE TREASURE-HUNT--FLINT'S POINTER}
+     32.  ◊a[#:href "part6_ch32.html"]{THE TREASURE-HUNT--THE VOICE AMONG THE TREES}
+     33.  ◊a[#:href "part6_ch33.html"]{THE FALL OF A CHIEFTAIN}
+     34.  ◊a[#:href "part6_ch34.html"]{AND LAST}
 
  

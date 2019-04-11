@@ -75,17 +75,42 @@ h2 {
     font-size: 1em;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    background: #f5f5f5;
+    border-radius: 8px;
+}
+
+#nav {
+    width: 100%;
+    overflow: auto;
+}
 #prev, #next {
-    position: fixed;
     top: 1em;
+    width: 33%;
 }
 
 #prev {
-    left: 2em;
+    left: 0em;
+    float: left;
+
 }
 
 #next {
-    right: 2em;
+    right: 0em;
+    float: right;
+
+}
+
+#top {
+    margin: auto;
+    width: 30%;
+    text-align: center;
 }
 
 ol {
