@@ -2,9 +2,9 @@
 
 ◊chapter-title{The Black Spot}
 
-◊img[#:src "/images/0046m.jpg"]{}
+◊img[#:src "/images/0046m.png"]{}
 
-◊img[#:src "/images/9046m.jpg" #:alt "A" #:class "drop-cap"]{}
+◊img[#:src "/images/9046m.png" #:alt "A" #:class "drop-cap"]{}
 BOUT noon I stopped at the captain's door with some cooling drinks and medicines. He was lying very much as we had left him, only a little higher, and he seemed both weak and excited.
 
 ◊dialog{"Jim,"} he said, ◊dialog{"you're the only one here that's worth anything, and you know I've been always good to you. Never a month but I've given you a silver fourpenny for yourself. And now you see, mate, I'm pretty low, and deserted by all; and Jim, you'll bring me one noggin of rum, now, won't you, matey?"}

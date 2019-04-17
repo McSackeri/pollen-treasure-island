@@ -48,6 +48,7 @@ body {
     font-family: Fanwood;
     font-size: ◊|multiplier|em;
     line-height: ◊|multiplier|;
+    /* background-color: CornSilk; */
 }
 
 .poem {
