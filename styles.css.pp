@@ -76,6 +76,25 @@ body {
     padding-bottom: .5em;
     padding-left: .5em;
 }
+
+.ovrly-container {
+    position: relative;
+}
+.ovrly-container:hover .ovrly-image {
+    opacity: 1;
+}
+
+.ovrly-image {
+    opacity: 0;
+    transition: 1s ease;
+    position: absolute;
+    top: 20px;
+    bottom: 0;
+    left: 5px;
+    right: 0;
+
+}
+
 h1 {
     font-size: ◊|edge|em;
 }

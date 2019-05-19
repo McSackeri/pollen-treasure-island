@@ -2,9 +2,9 @@
 
 ◊chapter-title{The Treasure-hunt--The Voice Among the Trees}
 
-◊img[#:src "/images/0298m.jpg"]{}
+◊img[#:src "/images/0298m.png"]{}
 
-◊img[#:src "/images/9298m.jpg" #:alt "P" #:class "drop-cap"]{}ARTLY from the damping influence of this alarm, partly to rest Silver and the sick folk, the whole party sat down as soon as they had gained the brow of the ascent.
+◊img[#:src "/images/9298m.png" #:alt "P" #:class "drop-cap"]{}ARTLY from the damping influence of this alarm, partly to rest Silver and the sick folk, the whole party sat down as soon as they had gained the brow of the ascent.
 
 The plateau being somewhat tilted towards the west, this spot on which we had paused commanded a wide prospect on either hand. Before us, over the tree-tops, we beheld the Cape of the Woods fringed with surf; behind, we not only looked down upon the anchorage and Skeleton Island, but saw--clear across the spit and the eastern lowlands--a great field of open sea upon the east. Sheer above us rose the Spyglass, here dotted with single pines, there black with precipices. There was no sound but that of the distant breakers, mounting from all round, and the chirp of countless insects in the brush. Not a man, not a sail, upon the sea; the very largeness of the view increased the sense of solitude.
 
@@ -37,7 +37,7 @@ His courage had come back as he spoke, and some of the colour to his face along 
 
 ◊dialog{"Darby M'Graw,"} it wailed--for that is the word that best describes the sound--◊dialog{"Darby M'Graw! Darby M'Graw!"} again and again and again; and then rising a little higher, and with an oath that I leave out: ◊dialog{"Fetch aft the rum, Darby!"}
 
-◊img[#:src "/images/0301m.jpg"]{}
+◊img[#:src "/images/0301m.png"]{}
 
 The buccaneers remained rooted to the ground, their eyes starting from their heads. Long after the voice had died away they still stared in silence, dreadfully, before them.
 

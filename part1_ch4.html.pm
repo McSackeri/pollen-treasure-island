@@ -3,9 +3,9 @@
 
 ◊chapter-title{The Sea-chest}
 
-◊img[#:src "/images/0054m.jpg"]{}
+◊img[#:src "/images/0054m.png"]{}
 
-◊img[#:src "/images/9054m.jpg" #:alt "I" #:class "drop-cap"]{}
+◊img[#:src "/images/9054m.png" #:alt "I" #:class "drop-cap"]{}
  LOST no time, of course, in telling my mother all that I knew, and perhaps should have told her long before, and we saw ourselves at once in a difficult and dangerous position. Some of the man's money--if he had any--was certainly due to us, but it was not likely that our captain's shipmates, above all the two specimens seen by me, Black Dog and the blind beggar, would be inclined to give up their booty in payment of the dead man's debts. The captain's order to mount at once and ride for Doctor Livesey would have left my mother alone and unprotected, which was not to be thought of. Indeed, it seemed impossible for either of us to remain much longer in the house; the fall of coals in the kitchen grate, the very ticking of the clock, filled us with alarms. The neighbourhood, to our ears, seemed haunted by approaching footsteps; and what between the dead body of the captain on the parlour floor and the thought of that detestable blind beggar hovering near at hand and ready to return, there were moments when, as the saying goes, I jumped in my skin for terror. Something must speedily be resolved upon, and it occurred to us at last to go forth together and seek help in the neighbouring hamlet. No sooner said than done. Bare-headed as we were, we ran out at once in the gathering evening and the frosty fog.
 
 The hamlet lay not many hundred yards away, though out of view, on the other side of the next cove; and what greatly encouraged me, it was in an opposite direction from that whence the blind man had made his appearance and whither he had presumably returned. We were not many minutes on the road, though we sometimes stopped to lay hold of each other and hearken. But there was no unusual sound--nothing but the low wash of the ripple and the croaking of the inmates of the wood.
@@ -44,7 +44,7 @@ In the meantime, we had found nothing of any value but the silver and the trinke
 
 ◊dialog{"I'll show these rogues that I'm an honest woman,"} said my mother. ◊dialog{"I'll have my dues, and not a farthing over. Hold Mrs. Crossley's bag."} And she began to count over the amount of the captain's score from the sailor's bag into the one that I was holding.
 
-◊img[#:src "/images/0059m.jpg"]{}
+◊img[#:src "/images/0059m.png"]{}
 
 It was a long, difficult business, for the coins were of all countries and sizes--doubloons, and louis d'ors, and guineas, and pieces of eight, and I know not what besides, all shaken together at random. The guineas, too, were about the scarcest, and it was with these only that my mother knew how to make her count.
 

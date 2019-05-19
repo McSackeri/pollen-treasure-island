@@ -65,7 +65,7 @@ And he gave it, as he spoke, a wrench that made me cry out.
 
 ◊dialog{"Come, now, march,"} interrupted he; and I never heard a voice so cruel, and cold, and ugly as that blind man's. It cowed me more than the pain, and I began to obey him at once, walking straight in at the door and towards the parlour, where our sick old buccaneer was sitting, dazed with rum. The blind man clung close to me, holding me in one iron fist and leaning almost more of his weight on me than I could carry. ◊dialog{"Lead me straight up to him, and when I'm in view, cry out, 'Here's a friend for you, Bill.' If you don't, I'll do this,"} and with that he gave me a twitch that I thought would have made me faint. Between this and that, I was so utterly terrified of the blind beggar that I forgot my terror of the captain, and as I opened the parlour door, cried out the words he had ordered in a trembling voice.
 
-◊img[#:src "/images/0051m.jpg"]{}
+◊img[#:src "/images/0051m.png"]{}
 
 The poor captain raised his eyes, and at one look the rum went out of him and left him staring sober. The expression of his face was not so much of terror as of mortal sickness. He made a movement to rise, but I do not believe he had enough force left in his body.
 

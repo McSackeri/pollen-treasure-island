@@ -2,9 +2,9 @@
 
 ◊chapter-title{How My Sea Adventure Began}
 
-◊img[#:src "/images/0209m.jpg"]{}
+◊img[#:src "/images/0209m.png"]{}
 
-◊img[#:src "/images/9209m.jpg" #:alt "T" #:class "drop-cap"]{}HERE was no return of the mutineers--not so much as another shot out of the woods. They had "got their rations for that day," as the captain put it, and we had the place to ourselves and a quiet time to overhaul the wounded and get dinner. Squire and I cooked outside in spite of the danger, and even outside we could hardly tell what we were at, for horror of the loud groans that reached us from the doctor's patients.
+◊img[#:src "/images/9209m.png" #:alt "T" #:class "drop-cap"]{}HERE was no return of the mutineers--not so much as another shot out of the woods. They had "got their rations for that day," as the captain put it, and we had the place to ourselves and a quiet time to overhaul the wounded and get dinner. Squire and I cooked outside in spite of the danger, and even outside we could hardly tell what we were at, for horror of the loud groans that reached us from the doctor's patients.
 
 Out of the eight men who had fallen in the action, only three still breathed--that one of the pirates who had been shot at the loophole, Hunter, and Captain Smollett; and of these, the first two were as good as dead; the mutineer indeed died under the doctor's knife, and Hunter, do what we could, never recovered consciousness in this world. He lingered all day, breathing loudly like the old buccaneer at home in his apoplectic fit, but the bones of his chest had been crushed by the blow and his skull fractured in falling, and some time in the following night, without sign or sound, he went to his Maker.
 
@@ -56,7 +56,7 @@ The white rock, visible enough above the brush, was still some eighth of a mile 
 
 I dropped into the hollow, lifted the side of the tent, and there was Ben Gunn's boat--home-made if ever anything was home-made; a rude, lop-sided framework of tough wood, and stretched upon that a covering of goat-skin, with the hair inside. The thing was extremely small, even for me, and I can hardly imagine that it could have floated with a full-sized man. There was one thwart set as low as possible, a kind of stretcher in the bows, and a double paddle for propulsion.
 
-◊img[#:src "/images/0213m.jpg"]{}
+◊img[#:src "/images/0213m.png"]{}
 
 I had not then seen a coracle, such as the ancient Britons made, but I have seen one since, and I can give you no fairer idea of Ben Gunn's boat than by saying it was like the first and the worst coracle ever made by man. But the great advantage of the coracle it certainly possessed, for it was exceedingly light and portable.
 

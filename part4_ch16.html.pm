@@ -2,9 +2,9 @@
 
 ◊chapter-title{Narrative Continued by the Doctor: How the Ship Was Abandoned}
 
-◊img[#:src "/images/0161m.jpg"]{}
+◊img[#:src "/images/0161m.png"]{}
 
-◊img[#:src "/images/9161m.jpg" #:alt "I" #:class "drop-cap"]{}T was about half past one--three bells in the sea phrase--that the two boats went ashore from the HISPANIOLA. The captain, the squire, and I were talking matters over in the cabin. Had there been a breath of wind, we should have fallen on the six mutineers who were left aboard with us, slipped our cable, and away to sea. But the wind was wanting; and to complete our helplessness, down came Hunter with the news that Jim Hawkins had slipped into a boat and was gone ashore with the rest.
+◊img[#:src "/images/9161m.png" #:alt "I" #:class "drop-cap"]{}T was about half past one--three bells in the sea phrase--that the two boats went ashore from the HISPANIOLA. The captain, the squire, and I were talking matters over in the cabin. Had there been a breath of wind, we should have fallen on the six mutineers who were left aboard with us, slipped our cable, and away to sea. But the wind was wanting; and to complete our helplessness, down came Hunter with the news that Jim Hawkins had slipped into a boat and was gone ashore with the rest.
 
 It never occurred to us to doubt Jim Hawkins, but we were alarmed for his safety. With the men in the temper they were in, it seemed an even chance if we should see the lad again. We ran on deck. The pitch was bubbling in the seams; the nasty stench of the place turned me sick; if ever a man smelt fever and dysentery, it was in that abominable anchorage. The six scoundrels were sitting grumbling under a sail in the forecastle; ashore we could see the gigs made fast and a man sitting in each, hard by where the river runs in. One of them was whistling "Lillibullero."
 
@@ -42,7 +42,7 @@ They were a good deal taken aback, and after a little consultation one and all t
 
 And the head popped back again; and we heard no more, for the time, of these six very faint-hearted seamen.
 
-◊img[#:src "/images/0163m.jpg"]{}
+◊img[#:src "/images/0163m.png"]{}
 
 By this time, tumbling things in as they came, we had the jolly-boat loaded as much as we dared. Joyce and I got out through the stern-port, and we made for shore again as fast as oars could take us.
 

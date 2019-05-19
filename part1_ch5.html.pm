@@ -4,9 +4,9 @@
 
 ◊chapter-title{The Last of the Blind Man}
 
-◊img[#:src "/images/0062m.jpg"]{}
+◊img[#:src "/images/0062m.png"]{}
 
-◊img[#:src "/images/9062m.jpg" #:alt "M" #:class "drop-cap"]{}
+◊img[#:src "/images/9062m.png" #:alt "M" #:class "drop-cap"]{}
 Y curiosity, in a sense, was stronger than my fear, for I could not remain where I was, but crept back to the bank again, whence, sheltering my head behind a bush of broom, I might command the road before our door. I was scarcely in position ere my enemies began to arrive, seven or eight of them, running hard, their feet beating out of time along the road and the man with the lantern some paces in front. Three men ran together, hand in hand; and I made out, even through the mist, that the middle man of this trio was the blind beggar. The next moment his voice showed me that I was right.
 
 ◊dialog{"Down with the door!"} he cried.
@@ -61,7 +61,7 @@ This appeal seemed to produce some effect, for two of the fellows began to look 
 
 Squalling was the word for it; Pew's anger rose so high at these objections till at last, his passion completely taking the upper hand, he struck at them right and left in his blindness and his stick sounded heavily on more than one.
 
-◊img[#:src "/images/0065m.jpg"]{}
+◊img[#:src "/images/0065m.png"]{}
 
 These, in their turn, cursed back at the blind miscreant, threatened him in horrid terms, and tried in vain to catch the stick and wrest it from his grasp.
 

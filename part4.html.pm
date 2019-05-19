@@ -2,4 +2,4 @@
 
 ◊chapter-title{Part IV - THE STOCKADE}
 
-◊img[#:src "/images/0159m.jpg"]{}
+◊img[#:src "/images/0159m.png"]{}

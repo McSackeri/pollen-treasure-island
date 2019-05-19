@@ -2,9 +2,9 @@
 
 ◊chapter-title{On Parole}
 
-◊img[#:src "/images/0280m.jpg"]{}
+◊img[#:src "/images/0280m.png"]{}
 
-◊img[#:src "/images/9280m.jpg" #:alt "I" #:class "drop-cap"]{} WAS wakened--indeed, we were all wakened, for I could see even the sentinel shake himself together from where he had fallen against the door-post--by a clear, hearty voice hailing us from the margin of the wood:
+◊img[#:src "/images/9280m.png" #:alt "I" #:class "drop-cap"]{} WAS wakened--indeed, we were all wakened, for I could see even the sentinel shake himself together from where he had fallen against the door-post--by a clear, hearty voice hailing us from the margin of the wood:
 
 ◊dialog{"Block house, ahoy!"} it cried. ◊dialog{"Here's the doctor."}
 
@@ -88,7 +88,7 @@ I will own that I here began to weep. ◊dialog{"Doctor,"} I said, ◊dialog{"yo
 
 ◊dialog{"I know, I know,"} he cried. ◊dialog{"We can't help that, Jim, now. I'll take it on my shoulders, holus bolus, blame and shame, my boy; but stay here, I cannot let you. Jump! One jump, and you're out, and we'll run for it like antelopes."}
 
-◊img[#:src "/images/0285m.jpg"]{}
+◊img[#:src "/images/0285m.png"]{}
 
 ◊dialog{"No,"} I replied; ◊dialog{"you know right well you wouldn't do the thing yourself--neither you nor squire nor captain; and no more will I. Silver trusted me; I passed my word, and back I go. But, doctor, you did not let me finish. If they come to torture me, I might let slip a word of where the ship is, for I got the ship, part by luck and part by risking, and she lies in North Inlet, on the southern beach, and just below high water. At half tide she must be high and dry."}
 

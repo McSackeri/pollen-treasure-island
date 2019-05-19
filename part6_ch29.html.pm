@@ -2,15 +2,15 @@
 
 ◊chapter-title{The Black Spot Again}
 
-◊img[#:src "/images/0271m.jpg"]{}
+◊img[#:src "/images/0271m.png"]{}
 
-◊img[#:src "/images/9271m.jpg" #:alt "T" #:class "drop-cap"]{}HE council of buccaneers had lasted some time, when one of them re-entered the house, and with a repetition of the same salute, which had in my eyes an ironical air, begged for a moment's loan of the torch. Silver briefly agreed, and this emissary retired again, leaving us together in the dark.
+◊img[#:src "/images/9271m.png" #:alt "T" #:class "drop-cap"]{}HE council of buccaneers had lasted some time, when one of them re-entered the house, and with a repetition of the same salute, which had in my eyes an ironical air, begged for a moment's loan of the torch. Silver briefly agreed, and this emissary retired again, leaving us together in the dark.
 
 ◊dialog{"There's a breeze coming, Jim,"} said Silver, who had by this time adopted quite a friendly and familiar tone.
 
 I turned to the loophole nearest me and looked out. The embers of the great fire had so far burned themselves out and now glowed so low and duskily that I understood why these conspirators desired a torch. About half-way down the slope to the stockade, they were collected in a group; one held the light, another was on his knees in their midst, and I saw the blade of an open knife shine in his hand with varying colours in the moon and torchlight. The rest were all somewhat stooping, as though watching the manoeuvres of this last. I could just make out that he had a book as well as a knife in his hand, and was still wondering how anything so incongruous had come in their possession when the kneeling figure rose once more to his feet and the whole party began to move together towards the house.
 
-◊img[#:src "/images/0273m.jpg"]{}
+◊img[#:src "/images/0273m.png"]{}
 
 ◊dialog{"Here they come,"} said I; and I returned to my former position, for it seemed beneath my dignity that they should find me watching them.
 

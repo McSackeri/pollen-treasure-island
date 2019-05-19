@@ -2,9 +2,9 @@
 
 ◊chapter-title{Narrative Continued by the Doctor: The Jolly-boat's Last Trip}
 
-◊img[#:src "/images/0168m.jpg"]{}
+◊img[#:src "/images/0168m.png"]{}
 
-◊img[#:src "/images/9168m.jpg" #:alt "T" #:class "drop-cap"]{}HIS fifth trip was quite different from any of the others. In the first place, the little gallipot of a boat that we were in was gravely overloaded. Five grown men, and three of them--Trelawney, Redruth, and the captain--over six feet high, was already more than she was meant to carry. Add to that the powder, pork, and bread-bags. The gunwale was lipping astern. Several times we shipped a little water, and my breeches and the tails of my coat were all soaking wet before we had gone a hundred yards.
+◊img[#:src "/images/9168m.png" #:alt "T" #:class "drop-cap"]{}HIS fifth trip was quite different from any of the others. In the first place, the little gallipot of a boat that we were in was gravely overloaded. Five grown men, and three of them--Trelawney, Redruth, and the captain--over six feet high, was already more than she was meant to carry. Add to that the powder, pork, and bread-bags. The gunwale was lipping astern. Several times we shipped a little water, and my breeches and the tails of my coat were all soaking wet before we had gone a hundred yards.
 
 The captain made us trim the boat, and we got her to lie a little more evenly. All the same, we were afraid to breathe.
 
@@ -64,7 +64,7 @@ The cry he gave was echoed not only by his companions on board but by a great nu
 
 ◊dialog{"They'll have a hot run, sir,"} returned the captain. ◊dialog{"Jack ashore, you know. It's not them I mind; it's the round-shot. Carpet bowls! My lady's maid couldn't miss. Tell us, squire, when you see the match, and we'll hold water."}
 
-◊img[#:src "/images/0171m.jpg"]{}
+◊img[#:src "/images/0171m.png"]{}
 
 In the meanwhile we had been making headway at a good pace for a boat so overloaded, and we had shipped but little water in the process. We were now close in; thirty or forty strokes and we should beach her, for the ebb had already disclosed a narrow belt of sand below the clustering trees. The gig was no longer to be feared; the little point had already concealed it from our eyes. The ebb-tide, which had so cruelly delayed us, was now making reparation and delaying our assailants. The one source of danger was the gun.
 

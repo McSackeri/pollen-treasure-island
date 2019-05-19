@@ -2,9 +2,9 @@
 
 ◊chapter-title{The Man of the Island}
 
-◊img[#:src "/images/0150m.jpg"]{}
+◊img[#:src "/images/0150m.png"]{}
 
-◊img[#:src "/images/9150m.jpg" #:alt "F" #:class "drop-cap"]{}ROM the side of the hill, which was here steep and stony, a spout of gravel was dislodged and fell rattling and bounding through the trees. My eyes turned instinctively in that direction, and I saw a figure leap with great rapidity behind the trunk of a pine. What it was, whether bear or man or monkey, I could in no wise tell. It seemed dark and shaggy; more I knew not. But the terror of this new apparition brought me to a stand.
+◊img[#:src "/images/9150m.png" #:alt "F" #:class "drop-cap"]{}ROM the side of the hill, which was here steep and stony, a spout of gravel was dislodged and fell rattling and bounding through the trees. My eyes turned instinctively in that direction, and I saw a figure leap with great rapidity behind the trunk of a pine. What it was, whether bear or man or monkey, I could in no wise tell. It seemed dark and shaggy; more I knew not. But the terror of this new apparition brought me to a stand.
 
 I was now, it seemed, cut off upon both sides; behind me the murderers, before me this lurking nondescript. And immediately I began to prefer the dangers that I knew to those I knew not. Silver himself appeared less terrible in contrast with this creature of the woods, and I turned on my heel, and looking sharply behind me over my shoulder, began to retrace my steps in the direction of the boats.
 
@@ -20,7 +20,7 @@ At that I once more stopped.
 
 ◊dialog{"Ben Gunn,"} he answered, and his voice sounded hoarse and awkward, like a rusty lock. ◊dialog{"I'm poor Ben Gunn, I am; and I haven't spoke with a Christian these three years."}
 
-◊img[#:src "/images/0153m.jpg"]{}
+◊img[#:src "/images/0153m.png"]{}
 
 I could now see that he was a white man like myself and that his features were even pleasing. His skin, wherever it was exposed, was burnt by the sun; even his lips were black, and his fair eyes looked quite startling in so dark a face. Of all the beggar-men that I had seen or fancied, he was the chief for raggedness. He was clothed with tatters of old ship's canvas and old sea-cloth, and this extraordinary patchwork was all held together by a system of the most various and incongruous fastenings, brass buttons, bits of stick, and loops of tarry gaskin. About his waist he wore an old brass-buckled leather belt, which was the one thing solid in his whole accoutrement.
 

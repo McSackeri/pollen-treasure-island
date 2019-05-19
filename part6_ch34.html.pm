@@ -2,13 +2,13 @@
 
 ◊chapter-title{And Last}
 
-◊img[#:src "/images/0314m.jpg"]{}
+◊img[#:src "/images/0314m.png"]{}
 
-◊img[#:src "/images/9314m.jpg" #:alt "T" #:class "drop-cap"]{}HE next morning we fell early to work, for the transportation of this great mass of gold near a mile by land to the beach, and thence three miles by boat to the HISPANIOLA, was a considerable task for so small a number of workmen. The three fellows still abroad upon the island did not greatly trouble us; a single sentry on the shoulder of the hill was sufficient to ensure us against any sudden onslaught, and we thought, besides, they had had more than enough of fighting.
+◊img[#:src "/images/9314m.png" #:alt "T" #:class "drop-cap"]{}HE next morning we fell early to work, for the transportation of this great mass of gold near a mile by land to the beach, and thence three miles by boat to the HISPANIOLA, was a considerable task for so small a number of workmen. The three fellows still abroad upon the island did not greatly trouble us; a single sentry on the shoulder of the hill was sufficient to ensure us against any sudden onslaught, and we thought, besides, they had had more than enough of fighting.
 
 Therefore the work was pushed on briskly. Gray and Ben Gunn came and went with the boat, while the rest during their absences piled treasure on the beach. Two of the bars, slung in a rope's end, made a good load for a grown man--one that he was glad to walk slowly with. For my part, as I was not much use at carrying, I was kept busy all day in the cave packing the minted money into bread-bags.
 
-◊img[#:src "/images/0317m.jpg"]{}
+◊img[#:src "/images/0317m.png"]{}
 
 It was a strange collection, like Billy Bones's hoard for the diversity of coinage, but so much larger and so much more varied that I think I never had more pleasure than in sorting them. English, French, Spanish, Portuguese, Georges, and Louises, doubloons and double guineas and moidores and sequins, the pictures of all the kings of Europe for the last hundred years, strange Oriental pieces stamped with what looked like wisps of string or bits of spider's web, round pieces and square pieces, and pieces bored through the middle, as if to wear them round your neck--nearly every variety of money in the world must, I think, have found a place in that collection; and for number, I am sure they were like autumn leaves, so that my back ached with stooping and my fingers with sorting them out.
 

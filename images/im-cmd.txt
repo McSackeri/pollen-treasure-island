@@ -1,0 +1,1 @@
+magick convert 9037m.jpg -fx intensity -fuzz 15% -transparent white 9037m.png

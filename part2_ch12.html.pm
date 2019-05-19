@@ -3,9 +3,9 @@
 
 ◊chapter-title{Council of War}
 
-◊img[#:src "/images/0122m.jpg"]{}
+◊img[#:src "/images/0122m.png"]{}
 
-◊img[#:src "/images/9122m.jpg" #:alt "T" #:class "drop-cap"]{}HERE was a great rush of feet across the deck. I could hear people tumbling up from the cabin and the forecastle, and slipping in an instant outside my barrel, I dived behind the fore-sail, made a double towards the stern, and came out upon the open deck in time to join Hunter and Dr. Livesey in the rush for the weather bow.
+◊img[#:src "/images/9122m.png" #:alt "T" #:class "drop-cap"]{}HERE was a great rush of feet across the deck. I could hear people tumbling up from the cabin and the forecastle, and slipping in an instant outside my barrel, I dived behind the fore-sail, made a double towards the stern, and came out upon the open deck in time to join Hunter and Dr. Livesey in the rush for the weather bow.
 
 There all hands were already congregated. A belt of fog had lifted almost simultaneously with the appearance of the moon. Away to the south-west of us we saw two low hills, about a couple of miles apart, and rising behind one of them a third and higher hill, whose peak was still buried in the fog. All three seemed sharp and conical in figure.
 
@@ -47,7 +47,7 @@ The cheer followed--that was a matter of course; but it rang out so full and hea
 
 ◊dialog{"One more cheer for Cap'n Smollett,"} cried Long John when the first had subsided.
 
-◊img[#:src "/images/0125m.jpg"]{}
+◊img[#:src "/images/0125m.png"]{}
 
 And this also was given with a will.
 
