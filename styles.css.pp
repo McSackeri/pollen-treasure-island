@@ -3,6 +3,7 @@
 ◊(define inner 1)
 ◊(define edge (* inner 2))
 ◊(define color "gray")
+◊(define bg-color "white")
 ◊(define multiplier 1)
 ◊(define li-pad (* multiplier .5))
 
@@ -49,6 +50,7 @@ body {
     font-size: ◊|multiplier|em;
     line-height: ◊|multiplier|;
     /* background-color: CornSilk; */
+    background-color: ◊|bg-color|;
 }
 
 .poem {
@@ -117,6 +119,7 @@ a:hover {
 #nav {
     width: 100%;
     overflow: auto;
+    opacity: 1;
 }
 #prev, #next {
     top: ◊|(/ edge 2)|em;
@@ -139,6 +142,60 @@ a:hover {
     margin: auto;
     width: 30%;
     text-align: center;
+}
+
+#nav-left {
+    width: 110px;
+    height: 100%;
+    position: fixed;
+    float: left;
+    left: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: opacity 1s;
+    background-color: ◊|bg-color|;
+    z-index: 1;
+}
+
+#nav-left:hover {
+    opacity: .9;
+}
+
+#nav-left-text {
+    position: absolute;
+    top: 40%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+#nav-right {
+    width: 110px;
+    height: 100%;
+    position: fixed;
+    float: right;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: opacity 1s;
+    background-color: ◊|bg-color|;
+    z-index: 1;
+}
+
+#nav-right:hover {
+    opacity: .9;
+}
+
+#nav-right-text {
+    position: absolute;
+    top: 40%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 1em;
+/* border: 1px solid red; 
+    background-color: ◊|bg-color|;
+    z-index: 1; */
 }
 
 ol {

@@ -3,6 +3,7 @@
 ◊h1{CONTENTS}
 
 ◊img[#:src "/images/0017m.png"]{}
+◊a[#:href "/images/0017.jpg"]{◊img[#:src "/images/enlarge.jpg"]{}}
 
      PART ONE
      The Old Buccaneer
