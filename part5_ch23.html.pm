@@ -2,9 +2,9 @@
 
 ◊chapter-title{The Ebb-tide Runs}
 
-◊img[#:src "/images/0217m.png"]{}
+◊a[#:href "/images/0217.jpg"]{◊img[#:class "chapter-img" #:src "/images/0217m.png"]{}}
 
-◊img[#:src "/images/9217m.png" #:alt "T" #:class "drop-cap"]{}HE coracle--as I had ample reason to know before I was done with her--was a very safe boat for a person of my height and weight, both buoyant and clever in a seaway; but she was the most cross-grained, lop-sided craft to manage. Do as you pleased, she always made more leeway than anything else, and turning round and round was the manoeuvre she was best at. Even Ben Gunn himself has admitted that she was ◊dialog{"queer to handle till you knew her way."}
+◊a[#:href "/images/9217.jpg"]{◊img[#:src "/images/9217m.png" #:alt "T" #:class "drop-cap"]{}}HE coracle--as I had ample reason to know before I was done with her--was a very safe boat for a person of my height and weight, both buoyant and clever in a seaway; but she was the most cross-grained, lop-sided craft to manage. Do as you pleased, she always made more leeway than anything else, and turning round and round was the manoeuvre she was best at. Even Ben Gunn himself has admitted that she was ◊dialog{"queer to handle till you knew her way."}
 
 Certainly I did not know her way. She turned in every direction but the one I was bound to go; the most part of the time we were broadside on, and I am very sure I never should have made the ship at all but for the tide. By good fortune, paddle as I pleased, the tide was still sweeping me down; and there lay the HISPANIOLA right in the fairway, hardly to be missed.
 
@@ -41,7 +41,7 @@ I pulled in hand over hand on the cord, and when I judged myself near enough, ro
 
 By this time the schooner and her little consort were gliding pretty swiftly through the water; indeed, we had already fetched up level with the camp-fire. The ship was talking, as sailors say, loudly, treading the innumerable ripples with an incessant weltering splash; and until I got my eye above the window-sill I could not comprehend why the watchmen had taken no alarm. One glance, however, was sufficient; and it was only one glance that I durst take from that unsteady skiff. It showed me Hands and his companion locked together in deadly wrestle, each with a hand upon the other's throat.
 
-◊img[#:src "/images/0223m.png"]{}
+◊a[#:href "/images/0223.jpg"]{◊img[#:class "chapter-img" #:src "/images/0223m.png"]{}}
 
 I dropped upon the thwart again, none too soon, for I was near overboard. I could see nothing for the moment but these two furious, encrimsoned faces swaying together under the smoky lamp, and I shut my eyes to let them grow once more familiar with the darkness.
 

@@ -2,4 +2,4 @@
 
 ◊chapter-title{Part VI - CAPTAIN SILVER}
 
-◊img[#:src "/images/0259m.png"]{}
+◊a[#:href "/images/0259.jpg"]{◊img[#:class "chapter-img" #:src "/images/0259m.png"]{}}

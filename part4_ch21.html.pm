@@ -2,9 +2,9 @@
 
 ◊chapter-title{The Attack}
 
-◊img[#:src "/images/0198m.png"]{}
+◊a[#:href "/images/0198.jpg"]{◊img[#:class "chapter-img" #:src "/images/0198m.png"]{}}
 
-◊img[#:src "/images/9198m.png" #:alt "A" #:class "drop-cap"]{}S soon as Silver disappeared, the captain, who had been closely watching him, turned towards the interior of the house and found not a man of us at his post but Gray. It was the first time we had ever seen him angry.
+◊a[#:href "/images/9198.jpg"]{◊img[#:src "/images/9198m.png" #:alt "A" #:class "drop-cap"]{}}S soon as Silver disappeared, the captain, who had been closely watching him, turned towards the interior of the house and found not a man of us at his post but Gray. It was the first time we had ever seen him angry.
 
 ◊dialog{"Quarters!"} he roared. And then, as we all slunk back to our places, ◊dialog{"Gray,"} he said, ◊dialog{"I'll put your name in the log; you've stood by your duty like a seaman. Mr. Trelawney, I'm surprised at you, sir. Doctor, I thought you had worn the king's coat! If that was how you served at Fontenoy, sir, you'd have been better in your berth."}
 
@@ -62,7 +62,7 @@ Nor had we much time left to us for thought. Suddenly, with a loud huzza, a litt
 
 The boarders swarmed over the fence like monkeys. Squire and Gray fired again and yet again; three men fell, one forwards into the enclosure, two back on the outside. But of these, one was evidently more frightened than hurt, for he was on his feet again in a crack and instantly disappeared among the trees.
 
-◊img[#:src "/images/0201m.png"]{}
+◊a[#:href "/images/0201.jpg"]{◊img[#:class "chapter-img" #:src "/images/0201m.png"]{}}
 
 Two had bit the dust, one had fled, four had made good their footing inside our defences, while from the shelter of the woods seven or eight men, each evidently supplied with several muskets, kept up a hot though useless fire on the log-house.
 

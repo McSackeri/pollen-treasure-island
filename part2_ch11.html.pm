@@ -3,9 +3,9 @@
 
 ◊chapter-title{What I Heard in the Apple Barrel}
 
-◊img[#:src "/images/0114m.png"]{}
+◊a[#:href "/images/0114.jpg"]{◊img[#:class "chapter-img" #:src "/images/0114m.png"]{}}
 
-◊img[#:src "/images/9114m.png" #:alt "N" #:class "drop-cap"]{}◊dialog{"O, not I,"} said Silver. ◊dialog{"Flint was cap'n; I was quartermaster, along of my timber leg. The same broadside I lost my leg, old Pew lost his deadlights. It was a master surgeon, him that ampytated me--out of college and all--Latin by the bucket, and what not; but he was hanged like a dog, and sun-dried like the rest, at Corso Castle. That was Roberts' men, that was, and comed of changing names to their ships--ROYAL FORTUNE and so on. Now, what a ship was christened, so let her stay, I says. So it was with the CASSANDRA, as brought us all safe home from Malabar, after England took the viceroy of the Indies; so it was with the old WALRUS, Flint's old ship, as I've seen amuck with the red blood and fit to sink with gold."}
+◊a[#:href "/images/9114.jpg"]{◊img[#:src "/images/9114m.png" #:alt "N" #:class "drop-cap"]{}}◊dialog{"O, not I,"} said Silver. ◊dialog{"Flint was cap'n; I was quartermaster, along of my timber leg. The same broadside I lost my leg, old Pew lost his deadlights. It was a master surgeon, him that ampytated me--out of college and all--Latin by the bucket, and what not; but he was hanged like a dog, and sun-dried like the rest, at Corso Castle. That was Roberts' men, that was, and comed of changing names to their ships--ROYAL FORTUNE and so on. Now, what a ship was christened, so let her stay, I says. So it was with the CASSANDRA, as brought us all safe home from Malabar, after England took the viceroy of the Indies; so it was with the old WALRUS, Flint's old ship, as I've seen amuck with the red blood and fit to sink with gold."}
 
 ◊dialog{"Ah!"} cried another voice, that of the youngest hand on board, and evidently full of admiration. ◊dialog{"He was the flower of the flock, was Flint!"}q
 
@@ -81,7 +81,7 @@ Dick was gone but a little while, and during his absence Israel spoke straight o
 
 When Dick returned, one after another of the trio took the pannikin and drank--one "To luck," another with a ◊dialog{"Here's to old Flint,"} and Silver himself saying, in a kind of song, ◊dialog{"Here's to ourselves, and hold your luff, plenty of prizes and plenty of duff."}
 
-◊img[#:src "/images/0117m.png"]{}
+◊a[#:href "/images/0117.jpg"]{◊img[#:class "chapter-img" #:src "/images/0117m.png"]{}}
 
 Just then a sort of brightness fell upon me in the barrel, and looking up, I found the moon had risen and was silvering the mizzen-top and shining white on the luff of the fore-sail; and almost at the same time the voice of the lookout shouted, ◊dialog{"Land ho!"}
 

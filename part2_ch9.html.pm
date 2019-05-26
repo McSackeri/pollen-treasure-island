@@ -3,9 +3,9 @@
 
 ◊chapter-title{Powder and Arms}
 
-◊img[#:src "/images/0098m.png"]{}
+◊a[#:href "/images/0098.jpg"]{◊img[#:class "chapter-img" #:src "/images/0098m.png"]{}}
 
-◊img[#:src "/images/9098m.png" #:alt "T" #:class "drop-cap"]{}HE HISPANIOLA lay some way out, and we went under the figureheads and round the sterns of many other ships, and their cables sometimes grated underneath our keel, and sometimes swung above us. At last, however, we got alongside, and were met and saluted as we stepped aboard by the mate, Mr. Arrow, a brown old sailor with earrings in his ears and a squint. He and the squire were very thick and friendly, but I soon observed that things were not the same between Mr. Trelawney and the captain.
+◊a[#:href "/images/9098.jpg"]{◊img[#:src "/images/9098m.png" #:alt "T" #:class "drop-cap"]{}}HE HISPANIOLA lay some way out, and we went under the figureheads and round the sterns of many other ships, and their cables sometimes grated underneath our keel, and sometimes swung above us. At last, however, we got alongside, and were met and saluted as we stepped aboard by the mate, Mr. Arrow, a brown old sailor with earrings in his ears and a squint. He and the squire were very thick and friendly, but I soon observed that things were not the same between Mr. Trelawney and the captain.
 
 This last was a sharp-looking man who seemed angry with everything on board and was soon to tell us why, for we had hardly got down into the cabin when a sailor followed us.
 
@@ -117,7 +117,7 @@ The cook came up the side like a monkey for cleverness, and as soon as he saw wh
 
 "Very likely, sir," replied Captain Smollett. "Easy with that, men--easy," he ran on, to the fellows who were shifting the powder; and then suddenly observing me examining the swivel we carried amidships, a long brass nine, "Here you, ship's boy," he cried, "out o' that! Off with you to the cook and get some work."
 
-◊img[#:src "/images/0103m.png"]{}
+◊a[#:href "/images/0103.jpg"]{◊img[#:class "chapter-img" #:src "/images/0103m.png"]{}}
 
 And then as I was hurrying off I heard him say, quite loudly, to the doctor, "I'll have no favourites on my ship."
 

@@ -2,9 +2,9 @@
 
 ◊chapter-title{The First Blow}
 
-◊img[#:src "/images/0140m.png"]{}
+◊a[#:href "/images/0140.jpg"]{◊img[#:class "chapter-img" #:src "/images/0140m.png"]{}}
 
-◊img[#:src "/images/9140m.png" #:alt "I" #:class "drop-cap"]{} WAS so pleased at having given the slip to Long John that I began to enjoy myself and look around me with some interest on the strange land that I was in.
+◊a[#:href "/images/9140.jpg"]{◊img[#:src "/images/9140m.png" #:alt "I" #:class "drop-cap"]{}} WAS so pleased at having given the slip to Long John that I began to enjoy myself and look around me with some interest on the strange land that I was in.
 
 I had crossed a marshy tract full of willows, bulrushes, and odd, outlandish, swampy trees; and I had now come out upon the skirts of an open piece of undulating, sandy country, about a mile long, dotted with a few pines and a great number of contorted trees, not unlike the oak in growth, but pale in the foliage, like willows. On the far side of the open stood one of the hills, with two quaint, craggy peaks shining vividly in the sun.
 
@@ -57,8 +57,8 @@ I do not know what it rightly is to faint, but I do know that for the next littl
 When I came again to myself the monster had pulled himself together, his crutch under his arm, his hat upon his head. Just before him Tom lay motionless upon the sward; but the murderer minded him not a whit, cleansing his blood-stained knife the while upon a wisp of grass. Everything else was unchanged, the sun still shining mercilessly on the steaming marsh and the tall pinnacle of the mountain, and I could scarce persuade myself that murder had been actually done and a human life cruelly cut short a moment since before my eyes.
 
 ◊div[#:class "ovrly-container"]{
-◊img[#:src "/images/0141m.jpg" #:class "ovrly-image"]{}
-◊img[#:src "/images/0145m.png"]{}
+◊a[#:href "/images/0141.jpg"]{◊img[#:src "/images/0141m.jpg" #:class "ovrly-image"]{}}
+◊a[#:href "/images/0145.jpg"]{◊img[#:class "chapter-img" #:src "/images/0145m.png"]{}}
 }
 
 But now John put his hand into his pocket, brought out a whistle, and blew upon it several modulated blasts that rang far across the heated air. I could not tell, of course, the meaning of the signal, but it instantly awoke my fears. More men would be coming. I might be discovered. They had already slain two of the honest people; after Tom and Alan, might not I come next?

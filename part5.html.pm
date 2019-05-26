@@ -2,4 +2,4 @@
 
 ◊chapter-title{Part V - MY SEA ADVENTURE}
 
-◊img[#:src "/images/0207m.png"]{}
+◊a[#:href "/images/0207.jpg"]{◊img[#:class "chapter-img" #:src "/images/0207m.png"]{}}

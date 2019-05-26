@@ -3,9 +3,9 @@
 
 ◊chapter-title{How My Shore Adventure Began}
 
-◊img[#:src "/images/0133m.png"]{}
+◊a[#:href "/images/0133.jpg"]{◊img[#:class "chapter-img" #:src "/images/0133m.png"]{}}
 
-◊img[#:src "/images/9133m.png" #:alt "T" #:class "drop-cap"]{}HE appearance of the island when I came on deck next morning was altogether changed. Although the breeze had now utterly ceased, we had made a great deal of way during the night and were now lying becalmed about half a mile to the south-east of the low eastern coast. Grey-coloured woods covered a large part of the surface. This even tint was indeed broken up by streaks of yellow sand-break in the lower lands, and by many tall trees of the pine family, out-topping the others--some singly, some in clumps; but the general colouring was uniform and sad. The hills ran up clear above the vegetation in spires of naked rock. All were strangely shaped, and the Spy-glass, which was by three or four hundred feet the tallest on the island, was likewise the strangest in configuration, running up sheer from almost every side and then suddenly cut off at the top like a pedestal to put a statue on.
+◊a[#:href "/images/9133.jpg"]{◊img[#:src "/images/9133m.png" #:alt "T" #:class "drop-cap"]{}}HE appearance of the island when I came on deck next morning was altogether changed. Although the breeze had now utterly ceased, we had made a great deal of way during the night and were now lying becalmed about half a mile to the south-east of the low eastern coast. Grey-coloured woods covered a large part of the surface. This even tint was indeed broken up by streaks of yellow sand-break in the lower lands, and by many tall trees of the pine family, out-topping the others--some singly, some in clumps; but the general colouring was uniform and sad. The hills ran up clear above the vegetation in spires of naked rock. All were strangely shaped, and the Spy-glass, which was by three or four hundred feet the tallest on the island, was likewise the strangest in configuration, running up sheer from almost every side and then suddenly cut off at the top like a pedestal to put a statue on.
 
 The HISPANIOLA was rolling scuppers under in the ocean swell. The booms were tearing at the blocks, the rudder was banging to and fro, and the whole ship creaking, groaning, and jumping like a manufactory. I had to cling tight to the backstay, and the world turned giddily before my eyes, for though I was a good enough sailor when there was way on, this standing still and being rolled about like a bottle was a thing I never learned to stand without a qualm or so, above all in the morning, on an empty stomach.
 
@@ -58,7 +58,7 @@ Then it was that there came into my head the first of the mad notions that contr
 
 No one took notice of me, only the bow oar saying, ◊dialog{"Is that you, Jim? Keep your head down."} But Silver, from the other boat, looked sharply over and called out to know if that were me; and from that moment I began to regret what I had done.
 
-◊img[#:src "/images/0137m.png"]{}
+◊a[#:href "/images/0137.jpg"]{◊img[#:class "chapter-img" #:src "/images/0137m.png"]{}}
 
 The crews raced for the beach, but the boat I was in, having some start and being at once the lighter and the better manned, shot far ahead of her consort, and the bow had struck among the shore-side trees and I had caught a branch and swung myself out and plunged into the nearest thicket while Silver and the rest were still a hundred yards behind.
 
