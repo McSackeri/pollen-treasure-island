@@ -2,4 +2,4 @@
 
 ◊chapter-title{Part II - The SEA-COOK}
 
-◊img[#:src "/images/0081m.png"]{}
+◊a[#:href "/images/0081.jpg"]{◊img[#:class "chapter-img" #:src "/images/0081m.png"]{}}

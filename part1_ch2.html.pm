@@ -2,9 +2,9 @@
 
 ◊chapter-title{Black Dog Appears and Disappears}
 
-◊img[#:src "/images/0037m.png"]{}
+◊a[#:href "/images/0037.jpg"]{◊img[#:class "chapter-img" #:src "/images/0037m.png"]{}}
 
-◊img[#:src "/images/9037m.png" #:alt "I" #:class "drop-cap"]{}T was not very long after this that there occurred the first of the mysterious events that rid us at last of the captain, though not, as you will see, of his affairs. It was a bitter cold winter, with long, hard frosts and heavy gales; and it was plain from the first that my poor father was little likely to see the spring. He sank daily, and my mother and I had all the inn upon our hands, and were kept busy enough without paying much regard to our unpleasant guest.
+◊a[#:href "/images/9037.jpg"]{◊img[#:src "/images/9037m.png" #:alt "I" #:class "drop-cap"]{}}T was not very long after this that there occurred the first of the mysterious events that rid us at last of the captain, though not, as you will see, of his affairs. It was a bitter cold winter, with long, hard frosts and heavy gales; and it was plain from the first that my poor father was little likely to see the spring. He sank daily, and my mother and I had all the inn upon our hands, and were kept busy enough without paying much regard to our unpleasant guest.
 
 It was one January morning, very early--a pinching, frosty morning--the cove all grey with hoar-frost, the ripple lapping softly on the stones, the sun still low and only touching the hilltops and shining far to seaward. The captain had risen earlier than usual and set out down the beach, his cutlass swinging under the broad skirts of the old blue coat, his brass telescope under his arm, his hat tilted back upon his head. I remember his breath hanging like smoke in his wake as he strode off, and the last sound I heard of him as he turned the big rock was a loud snort of indignation, as though his mind was still running upon Dr. Livesey.
 
@@ -56,7 +56,7 @@ He bade me go and leave the door wide open. ◊dialog{"None of your keyholes for
 
 For a long time, though I certainly did my best to listen, I could hear nothing but a low gattling; but at last the voices began to grow higher, and I could pick up a word or two, mostly oaths, from the captain. ◊dialog{"No, no, no, no; and an end of it!"} he cried once. And again, ◊dialog{"If it comes to swinging, swing all, say I."}
 
-◊img[#:src "/images/0041m.png"]{}
+◊a[#:href "/images/0041.jpg"]{◊img[#:class "chapter-img" #:src "/images/0041m.png"]{}}
 
 Then all of a sudden there was a tremendous explosion of oaths and other noises--the chair and table went over in a lump, a clash of steel followed, and then a cry of pain, and the next instant I saw Black Dog in full flight, and the captain hotly pursuing, both with drawn cutlasses, and the former streaming blood from the left shoulder. Just at the door the captain aimed at the fugitive one last tremendous cut, which would certainly have split him to the chine had it not been intercepted by our big signboard of Admiral Benbow. You may see the notch on the lower side of the frame to this day.
 

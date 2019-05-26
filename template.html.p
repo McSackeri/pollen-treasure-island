@@ -6,7 +6,7 @@
 </head>
 <body>
     <div id="nav">
-        <div id="top"><a href="toc.html">Top</a></div>
+        <div id="top"><a href="toc.html">CONTENTS</a></div>
         ◊(define prev-page (previous here))
         ◊when/splice[prev-page]{
         <div id="prev">← <a href="◊|prev-page|">◊(select 'h1 prev-page)</a></div>}

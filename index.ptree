@@ -1,7 +1,9 @@
 #lang pollen
 
-preface.html
+cover.html
 toc.html
+preface.html
+part1.html
 part1_ch1.html
 part1_ch2.html
 part1_ch3.html

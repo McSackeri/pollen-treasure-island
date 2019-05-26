@@ -51,6 +51,7 @@ body {
     line-height: ◊|multiplier|;
     /* background-color: CornSilk; */
     background-color: ◊|bg-color|;
+    max-width: 750px;
 }
 
 .poem {
@@ -97,6 +98,12 @@ body {
 
 }
 
+.chapter-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1 {
     font-size: ◊|edge|em;
 }
@@ -119,6 +126,11 @@ a:hover {
 #nav {
     width: 100%;
     overflow: auto;
+    opacity: 0;
+    transition: opacity 1s;
+
+}
+#nav:hover {
     opacity: 1;
 }
 #prev, #next {
@@ -135,13 +147,14 @@ a:hover {
 #next {
     right: 0em;
     float: right;
-
+    text-align: right;
 }
 
 #top {
     margin: auto;
     width: 30%;
     text-align: center;
+
 }
 
 #nav-left {
@@ -157,19 +170,6 @@ a:hover {
     z-index: 1;
 }
 
-#nav-left:hover {
-    opacity: .9;
-}
-
-#nav-left-text {
-    position: absolute;
-    top: 40%;
-    padding-top: 2em;
-    padding-bottom: 2em;
-    padding-right: 1em;
-    padding-left: 1em;
-}
-
 #nav-right {
     width: 110px;
     height: 100%;
@@ -183,19 +183,17 @@ a:hover {
     z-index: 1;
 }
 
-#nav-right:hover {
+#nav-left:hover, #nav-right:hover {
     opacity: .9;
 }
 
-#nav-right-text {
+#nav-left-text, #nav-right-text {
     position: absolute;
     top: 40%;
     padding-top: 2em;
     padding-bottom: 2em;
+    padding-right: 1em;
     padding-left: 1em;
-/* border: 1px solid red; 
-    background-color: ◊|bg-color|;
-    z-index: 1; */
 }
 
 ol {
