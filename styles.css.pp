@@ -44,8 +44,11 @@
 
 body {
     margin: ◊|edge|em;
-    /* border: ◊|inner|em double ◊|color|; */
-    padding: ◊|inner|em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    padding-left: 4em;
+    padding-right: 4em;
     font-family: Fanwood;
     font-size: ◊|multiplier|em;
     line-height: ◊|multiplier|;
@@ -104,7 +107,8 @@ body {
 }
 
 h1 {
-    font-size: ◊|edge|em;
+    font-size: 2.5em;
+    text-align: center;
 }
 
 h2 {

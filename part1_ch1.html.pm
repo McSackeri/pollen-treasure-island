@@ -2,10 +2,10 @@
 
 ◊chapter-title{The Old Sea-dog at the Admiral Benbow}
 
-◊a[#:href "/images/0029.jpg"]{◊img[#:class "chapter-img" #:src "/images/0029m.png"]{}}
+◊a[#:href "images/0029.jpg"]{◊img[#:class "chapter-img" #:src "images/0029m.png"]{}}
 
 
-◊a[#:href "/images/9029.jpg"]{◊img[#:src "/images/9029m.png" #:alt "S" #:class "drop-cap"]{}}QUIRE TRELAWNEY, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17__ and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof.
+◊a[#:href "images/9029.jpg"]{◊img[#:src "images/9029m.png" #:alt "S" #:class "drop-cap"]{}}QUIRE TRELAWNEY, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17__ and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof.
 
 I remember him as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow--a tall, strong, heavy, nut-brown man, his tarry pigtail falling over the shoulder of his soiled blue coat, his hands ragged and scarred, with black, broken nails, and the sabre cut across one cheek, a dirty, livid white. I remember him looking round the cover and whistling to himself as he did so, and then breaking out in that old sea-song that he sang so often afterwards:
 
@@ -53,7 +53,7 @@ The old fellow's fury was awful. He sprang to his feet, drew and opened a sailor
 
 The doctor never so much as moved. He spoke to him as before, over his shoulder and in the same tone of voice, rather high, so that all the room might hear, but perfectly calm and steady: ◊dialog{"If you do not put that knife this instant in your pocket, I promise, upon my honour, you shall hang at the next assizes."}
 
-◊a[#:href "/images/0033.jpg"]{◊img[#:class "chapter-img" #:src "/images/0033m.png"]{}}
+◊a[#:href "images/0033.jpg"]{◊img[#:class "chapter-img" #:src "images/0033m.png"]{}}
 
 Then followed a battle of looks between them, but the captain soon knuckled under, put up his weapon, and resumed his seat, grumbling like a beaten dog.
 
