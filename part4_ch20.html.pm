@@ -2,9 +2,9 @@
 
 ◊chapter-title{Silver's Embassy}
 
-◊a[#:href "/images/0190.jpg"]{◊img[#:class "chapter-img" #:src "/images/0190m.png"]{}}
+◊a[#:href "images/0190.jpg"]{◊img[#:class "chapter-img" #:src "images/0190m.png"]{}}
 
-◊a[#:href "/images/9190.jpg"]{◊img[#:src "/images/9190m.png" #:alt "S" #:class "drop-cap"]{}}URE enough, there were two men just outside the stockade, one of them waving a white cloth, the other, no less a person than Silver himself, standing placidly by.
+◊a[#:href "images/9190.jpg"]{◊img[#:src "images/9190m.png" #:alt "S" #:class "drop-cap"]{}}URE enough, there were two men just outside the stockade, one of them waving a white cloth, the other, no less a person than Silver himself, standing placidly by.
 
 It was still quite early, and the coldest morning that I think I ever was abroad in--a chill that pierced into the marrow. The sky was bright and cloudless overhead, and the tops of the trees shone rosily in the sun. But where Silver stood with his lieutenant, all was still in shadow, and they waded knee-deep in a low white vapour that had crawled during the night out of the morass. The chill and the vapour taken together told a poor tale of the island. It was plainly a damp, feverish, unhealthy spot.
 
@@ -48,7 +48,7 @@ Silver had terrible hard work getting up the knoll. What with the steepness of t
 
 ◊dialog{"Well, well, cap'n,"} returned the sea-cook, sitting down as he was bidden on the sand, ◊dialog{"you'll have to give me a hand up again, that's all. A sweet pretty place you have of it here. Ah, there's Jim! The top of the morning to you, Jim. Doctor, here's my service. Why, there you all are together like a happy family, in a manner of speaking."}
 
-◊a[#:href "/images/0195.jpg"]{◊img[#:class "chapter-img" #:src "/images/0195m.png"]{}}
+◊a[#:href "images/0195.jpg"]{◊img[#:class "chapter-img" #:src "images/0195m.png"]{}}
 
 ◊dialog{"If you have anything to say, my man, better say it,"} said the captain.
 

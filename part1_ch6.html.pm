@@ -3,9 +3,9 @@
 
 ◊chapter-title{The Captain's Papers}
 
-◊a[#:href "/images/0070.jpg"]{◊img[#:class "chapter-img" #:src "/images/0070m.png"]{}}
+◊a[#:href "images/0070.jpg"]{◊img[#:class "chapter-img" #:src "images/0070m.png"]{}}
 
-◊a[#:href "/images/9070.jpg"]{◊img[#:src "/images/9070m.png" #:alt "W" #:class "drop-cap"]{}}E rode hard all the way till we drew up before Dr. Livesey's door. The house was all dark to the front.
+◊a[#:href "images/9070.jpg"]{◊img[#:src "images/9070m.png" #:alt "W" #:class "drop-cap"]{}}E rode hard all the way till we drew up before Dr. Livesey's door. The house was all dark to the front.
 
 Mr. Dance told me to jump down and knock, and Dogger gave me a stirrup to descend by. The door was opened almost at once by the maid.
 
@@ -85,7 +85,7 @@ There was little else in the volume but a few bearings of places noted in the bl
 
 ◊dialog{"And now,"} said the squire, ◊dialog{"for the other."}
 
-◊a[#:href "/images/0075.jpg"]{◊img[#:class "chapter-img" #:src "/images/0075m.png"]{}}
+◊a[#:href "images/0075.jpg"]{◊img[#:class "chapter-img" #:src "images/0075m.png"]{}}
 
 The paper had been sealed in several places with a thimble by way of seal; the very thimble, perhaps, that I had found in the captain's pocket. The doctor opened the seals with great care, and there fell out the map of an island, with latitude and longitude, soundings, names of hills and bays and inlets, and every particular that would be needed to bring a ship to a safe anchorage upon its shores. It was about nine miles long and five across, shaped, you might say, like a fat dragon standing up, and had two fine land-locked harbours, and a hill in the centre part marked "The Spy-glass." There were several additions of a later date, but above all, three crosses of red ink--two on the north part of the island, one in the southwest--and beside this last, in the same red ink, and in a small, neat hand, very different from the captain's tottery characters, these words: "Bulk of treasure here."
 

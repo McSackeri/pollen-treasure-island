@@ -2,9 +2,9 @@
 
 ◊chapter-title{The Treasure-hunt--Flint's Pointer}
 
-◊a[#:href "/images/0289.jpg"]{◊img[#:class "chapter-img" #:src "/images/0289m.png"]{}}
+◊a[#:href "images/0289.jpg"]{◊img[#:class "chapter-img" #:src "images/0289m.png"]{}}
 
-◊a[#:href "/images/9289.jpg"]{◊img[#:src "/images/9289m.png" #:alt "J" #:class "drop-cap"]{}}◊dialog{IM,} said Silver when we were alone, ◊dialog{"if I saved your life, you saved mine; and I'll not forget it. I seen the doctor waving you to run for it--with the tail of my eye, I did; and I seen you say no, as plain as hearing. Jim, that's one to you. This is the first glint of hope I had since the attack failed, and I owe it you. And now, Jim, we're to go in for this here treasure-hunting, with sealed orders too, and I don't like it; and you and me must stick close, back to back like, and we'll save our necks in spite o' fate and fortune."}
+◊a[#:href "images/9289.jpg"]{◊img[#:src "images/9289m.png" #:alt "J" #:class "drop-cap"]{}}◊dialog{IM,} said Silver when we were alone, ◊dialog{"if I saved your life, you saved mine; and I'll not forget it. I seen the doctor waving you to run for it--with the tail of my eye, I did; and I seen you say no, as plain as hearing. Jim, that's one to you. This is the first glint of hope I had since the attack failed, and I owe it you. And now, Jim, we're to go in for this here treasure-hunting, with sealed orders too, and I don't like it; and you and me must stick close, back to back like, and we'll save our necks in spite o' fate and fortune."}
 
 Just then a man hailed us from the fire that breakfast was ready, and we were soon seated here and there about the sand over biscuit and fried junk. They had lit a fire fit to roast an ox, and it was now grown so hot that they could only approach it from the windward, and even there not without precaution. In the same wasteful spirit, they had cooked, I suppose, three times more than we could eat; and one of them, with an empty laugh, threw what was left into the fire, which blazed and roared again over this unusual fuel. I never in my life saw men so careless of the morrow; hand to mouth is the only word that can describe their way of doing; and what with wasted food and sleeping sentries, though they were bold enough for a brush and be done with it, I could see their entire unfitness for anything like a prolonged campaign.
 
@@ -24,7 +24,7 @@ Add to this double apprehension the mystery that still hung over the behaviour o
 
 We made a curious figure, had anyone been there to see us--all in soiled sailor clothes and all but me armed to the teeth. Silver had two guns slung about him--one before and one behind--besides the great cutlass at his waist and a pistol in each pocket of his square-tailed coat. To complete his strange appearance, Captain Flint sat perched upon his shoulder and gabbling odds and ends of purposeless sea-talk. I had a line about my waist and followed obediently after the sea-cook, who held the loose end of the rope, now in his free hand, now between his powerful teeth. For all the world, I was led like a dancing bear.
 
-◊a[#:href "/images/0291.jpg"]{◊img[#:class "chapter-img" #:src "/images/0291m.png"]{}}
+◊a[#:href "images/0291.jpg"]{◊img[#:class "chapter-img" #:src "images/0291m.png"]{}}
 
 The other men were variously burthened, some carrying picks and shovels--for that had been the very first necessary they brought ashore from the HISPANIOLA--others laden with pork, bread, and brandy for the midday meal. All the stores, I observed, came from our stock, and I could see the truth of Silver's words the night before. Had he not struck a bargain with the doctor, he and his mutineers, deserted by the ship, must have been driven to subsist on clear water and the proceeds of their hunting. Water would have been little to their taste; a sailor is not usually a good shot; and besides all that, when they were so short of eatables, it was not likely they would be very flush of powder.
 

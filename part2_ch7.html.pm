@@ -3,9 +3,9 @@
 
 ◊chapter-title{I Go to Bristol}
 
-◊a[#:href "/images/0083.jpg"]{◊img[#:class "chapter-img" #:src "/images/0083m.png"]{}}
+◊a[#:href "images/0083.jpg"]{◊img[#:class "chapter-img" #:src "images/0083m.png"]{}}
 
-◊a[#:href "/images/9083.jpg"]{◊img[#:src "/images/9083m.png" #:alt "I" #:class "drop-cap"]{}}T was longer than the squire imagined ere we were ready for the sea, and none of our first plans--not even Dr. Livesey's, of keeping me beside him--could be carried out as we intended. The doctor had to go to London for a physician to take charge of his practice; the squire was hard at work at Bristol; and I lived on at the hall under the charge of old Redruth, the gamekeeper, almost a prisoner, but full of sea-dreams and the most charming anticipations of strange islands and adventures. I brooded by the hour together over the map, all the details of which I well remembered. Sitting by the fire in the housekeeper's room, I approached that island in my fancy from every possible direction; I explored every acre of its surface; I climbed a thousand times to that tall hill they call the Spy-glass, and from the top enjoyed the most wonderful and changing prospects. Sometimes the isle was thick with savages, with whom we fought, sometimes full of dangerous animals that hunted us, but in all my fancies nothing occurred to me so strange and tragic as our actual adventures.
+◊a[#:href "images/9083.jpg"]{◊img[#:src "images/9083m.png" #:alt "I" #:class "drop-cap"]{}}T was longer than the squire imagined ere we were ready for the sea, and none of our first plans--not even Dr. Livesey's, of keeping me beside him--could be carried out as we intended. The doctor had to go to London for a physician to take charge of his practice; the squire was hard at work at Bristol; and I lived on at the hall under the charge of old Redruth, the gamekeeper, almost a prisoner, but full of sea-dreams and the most charming anticipations of strange islands and adventures. I brooded by the hour together over the map, all the details of which I well remembered. Sitting by the fire in the housekeeper's room, I approached that island in my fancy from every possible direction; I explored every acre of its surface; I climbed a thousand times to that tall hill they call the Spy-glass, and from the top enjoyed the most wonderful and changing prospects. Sometimes the isle was thick with savages, with whom we fought, sometimes full of dangerous animals that hunted us, but in all my fancies nothing occurred to me so strange and tragic as our actual adventures.
 
 So the weeks passed on, till one fine day there came a letter addressed to Dr. Livesey, with this addition, ◊em{◊b{"To be opened, in the case of his absence, by Tom Redruth or young Hawkins."}} Obeying this order, we found, or rather I found--for the gamekeeper was a poor hand at reading anything but print--the following important news:
 
@@ -131,7 +131,7 @@ The next morning he and I set out on foot for the Admiral Benbow, and there I fo
 
 It was on seeing that boy that I understood, for the first time, my situation. I had thought up to that moment of the adventures before me, not at all of the home that I was leaving; and now, at sight of this clumsy stranger, who was to stay here in my place beside my mother, I had my first attack of tears. I am afraid I led that boy a dog's life, for as he was new to the work, I had a hundred opportunities of setting him right and putting him down, and I was not slow to profit by them.
 
-◊a[#:href "/images/0087.jpg"]{◊img[#:class "chapter-img" #:src "/images/0087m.png"]{}}
+◊a[#:href "images/0087.jpg"]{◊img[#:class "chapter-img" #:src "images/0087m.png"]{}}
 
 The night passed, and the next day, after dinner, Redruth and I were afoot again and on the road. I said good-bye to Mother and the cove where I had lived since I was born, and the dear old Admiral Benbow--since he was repainted, no longer quite so dear. One of my last thoughts was of the captain, who had so often strode along the beach with his cocked hat, his sabre-cut cheek, and his old brass telescope. Next moment we had turned the corner and my home was out of sight.
 

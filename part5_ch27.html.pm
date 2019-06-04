@@ -2,9 +2,9 @@
 
 ◊chapter-title{"Pieces of Eight"}
 
-◊a[#:href "/images/0251.jpg"]{◊img[#:class "chapter-img" #:src "/images/0251m.png"]{}}
+◊a[#:href "images/0251.jpg"]{◊img[#:class "chapter-img" #:src "images/0251m.png"]{}}
 
-◊a[#:href "/images/9251.jpg"]{◊img[#:src "/images/9251m.png" #:alt "O" #:class "drop-cap"]{}}WING to the cant of the vessel, the masts hung far out over the water, and from my perch on the cross-trees I had nothing below me but the surface of the bay. Hands, who was not so far up, was in consequence nearer to the ship and fell between me and the bulwarks. He rose once to the surface in a lather of foam and blood and then sank again for good. As the water settled, I could see him lying huddled together on the clean, bright sand in the shadow of the vessel's sides. A fish or two whipped past his body. Sometimes, by the quivering of the water, he appeared to move a little, as if he were trying to rise. But he was dead enough, for all that, being both shot and drowned, and was food for fish in the very place where he had designed my slaughter.
+◊a[#:href "images/9251.jpg"]{◊img[#:src "images/9251m.png" #:alt "O" #:class "drop-cap"]{}}WING to the cant of the vessel, the masts hung far out over the water, and from my perch on the cross-trees I had nothing below me but the surface of the bay. Hands, who was not so far up, was in consequence nearer to the ship and fell between me and the bulwarks. He rose once to the surface in a lather of foam and blood and then sank again for good. As the water settled, I could see him lying huddled together on the clean, bright sand in the shadow of the vessel's sides. A fish or two whipped past his body. Sometimes, by the quivering of the water, he appeared to move a little, as if he were trying to rise. But he was dead enough, for all that, being both shot and drowned, and was food for fish in the very place where he had designed my slaughter.
 
 I was no sooner certain of this than I began to feel sick, faint, and terrified. The hot blood was running over my back and chest. The dirk, where it had pinned my shoulder to the mast, seemed to burn like a hot iron; yet it was not so much these real sufferings that distressed me, for these, it seemed to me, I could bear without a murmur; it was the horror I had upon my mind of falling from the cross-trees into that still green water, beside the body of the coxswain.
 
@@ -56,7 +56,7 @@ By this time I had got to the door and stood up. All was dark within, so that I 
 
 With my arms before me I walked steadily in. I should lie down in my own place (I thought with a silent chuckle) and enjoy their faces when they found me in the morning.
 
-◊a[#:href "/images/0255.jpg"]{◊img[#:class "chapter-img" #:src "/images/0255m.png"]{}}
+◊a[#:href "images/0255.jpg"]{◊img[#:class "chapter-img" #:src "images/0255m.png"]{}}
 
 My foot struck something yielding--it was a sleeper's leg; and he turned and groaned, but without awaking.
 

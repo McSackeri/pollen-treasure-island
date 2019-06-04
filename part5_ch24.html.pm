@@ -2,9 +2,9 @@
 
 ◊chapter-title{The Cruise of the Coracle}
 
-◊a[#:href "/images/0226.jpg"]{◊img[#:class "chapter-img" #:src "/images/0226m.png"]{}}
+◊a[#:href "images/0226.jpg"]{◊img[#:class "chapter-img" #:src "images/0226m.png"]{}}
 
-◊a[#:href "/images/9226.jpg"]{◊img[#:src "/images/9226m.png" #:alt "I" #:class "drop-cap"]{}}T was broad day when I awoke and found myself tossing at the south-west end of Treasure Island. The sun was up but was still hid from me behind the great bulk of the Spy-glass, which on this side descended almost to the sea in formidable cliffs.
+◊a[#:href "images/9226.jpg"]{◊img[#:src "images/9226m.png" #:alt "I" #:class "drop-cap"]{}}T was broad day when I awoke and found myself tossing at the south-west end of Treasure Island. The sun was up but was still hid from me behind the great bulk of the Spy-glass, which on this side descended almost to the sea in formidable cliffs.
 
 Haulbowline Head and Mizzen-mast Hill were at my elbow, the hill bare and dark, the head bound with cliffs forty or fifty feet high and fringed with great masses of fallen rock. I was scarce a quarter of a mile to seaward, and it was my first thought to paddle in and land.
 
@@ -14,7 +14,7 @@ Nor was that all, for crawling together on flat tables of rock or letting themse
 
 I have understood since that they were sea lions, and entirely harmless. But the look of them, added to the difficulty of the shore and the high running of the surf, was more than enough to disgust me of that landing-place. I felt willing rather to starve at sea than to confront such perils.
 
-◊a[#:href "/images/0229.jpg"]{◊img[#:class "chapter-img" #:src "/images/0229m.png"]{}}
+◊a[#:href "images/0229.jpg"]{◊img[#:class "chapter-img" #:src "images/0229m.png"]{}}
 
 In the meantime I had a better chance, as I supposed, before me. North of Haulbowline Head, the land runs in a long way, leaving at low tide a long stretch of yellow sand. To the north of that, again, there comes another cape--Cape of the Woods, as it was marked upon the chart--buried in tall green pines, which descended to the margin of the sea.
 

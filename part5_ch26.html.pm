@@ -2,9 +2,9 @@
 
 ◊chapter-title{Israel Hands}
 
-◊a[#:href "/images/0241.jpg"]{◊img[#:class "chapter-img" #:src "/images/0241m.png"]{}}
+◊a[#:href "images/0241.jpg"]{◊img[#:class "chapter-img" #:src "images/0241m.png"]{}}
 
-◊a[#:href "/images/9241.jpg"]{◊img[#:src "/images/9241m.png" #:alt "T" #:class "drop-cap"]{}}HE wind, serving us to a desire, now hauled into the west. We could run so much the easier from the north-east corner of the island to the mouth of the North Inlet. Only, as we had no power to anchor and dared not beach her till the tide had flowed a good deal farther, time hung on our hands. The coxswain told me how to lay the ship to; after a good many trials I succeeded, and we both sat in silence over another meal.
+◊a[#:href "images/9241.jpg"]{◊img[#:src "images/9241m.png" #:alt "T" #:class "drop-cap"]{}}HE wind, serving us to a desire, now hauled into the west. We could run so much the easier from the north-east corner of the island to the mouth of the North Inlet. Only, as we had no power to anchor and dared not beach her till the tide had flowed a good deal farther, time hung on our hands. The coxswain told me how to lay the ship to; after a good many trials I succeeded, and we both sat in silence over another meal.
 
 ◊dialog{"Cap'n,"} said he at length with that same uncomfortable smile, ◊dialog{"here's my old shipmate, O'Brien; s'pose you was to heave him overboard. I ain't partic'lar as a rule, and I don't take no blame for settling his hash, but I don't reckon him ornamental now, do you?"}
 
@@ -89,7 +89,7 @@ He stopped instantly. I could see by the working of his face that he was trying 
 I was drinking in his words and smiling away, as conceited as a cock upon a wall, when, all in a breath, back went his right hand over his shoulder. Something sang like an arrow through the air; I felt a blow and then a sharp pang, and there I was pinned by the shoulder to the mast. In the horrid pain and surprise of the moment--I scarce can say it was by my own volition, and I am sure it was without a conscious aim--both my pistols went off, and both escaped out of my hands. They did not fall alone; with a choked cry, the coxswain loosed his grasp upon the shrouds and plunged head first into the water.
 
 ◊div[#:class "ovrly-container"]{
-◊a[#:href "/images/0219.jpg"]{◊img[#:src "/images/0219m.jpg" #:class "ovrly-image"]{}}
-◊a[#:href "/images/0247.jpg"]{◊img[#:class "chapter-img" #:src "/images/0247m.png"]{}}
+◊a[#:href "images/0219.jpg"]{◊img[#:src "images/0219m.jpg" #:class "ovrly-image"]{}}
+◊a[#:href "images/0247.jpg"]{◊img[#:class "chapter-img" #:src "images/0247m.png"]{}}
 }
 

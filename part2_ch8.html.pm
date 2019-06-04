@@ -3,9 +3,9 @@
 
 ◊chapter-title{At the Sign of the Spy-glass}
 
-◊a[#:href "/images/0090.jpg"]{◊img[#:class "chapter-img" #:src "/images/0090m.png"]{}}
+◊a[#:href "images/0090.jpg"]{◊img[#:class "chapter-img" #:src "images/0090m.png"]{}}
 
-◊a[#:href "/images/9090.jpg"]{◊img[#:src "/images/9090m.png" #:alt "W" #:class "drop-cap"]{}}HEN I had done breakfasting the squire gave me a note addressed to John Silver, at the sign of the Spy-glass, and told me I should easily find the place by following the line of the docks and keeping a bright lookout for a little tavern with a large brass telescope for sign. I set off, overjoyed at this opportunity to see some more of the ships and seamen, and picked my way among a great crowd of people and carts and bales, for the dock was now at its busiest, until I found the tavern in question.
+◊a[#:href "images/9090.jpg"]{◊img[#:src "images/9090m.png" #:alt "W" #:class "drop-cap"]{}}HEN I had done breakfasting the squire gave me a note addressed to John Silver, at the sign of the Spy-glass, and told me I should easily find the place by following the line of the docks and keeping a bright lookout for a little tavern with a large brass telescope for sign. I set off, overjoyed at this opportunity to see some more of the ships and seamen, and picked my way among a great crowd of people and carts and bales, for the dock was now at its busiest, until I found the tavern in question.
 
 It was a bright enough little place of entertainment. The sign was newly painted; the windows had neat red curtains; the floor was cleanly sanded. There was a street on each side and an open door on both, which made the large, low room pretty clear to see in, in spite of clouds of tobacco smoke.
 
@@ -27,7 +27,7 @@ And he took my hand in his large firm grasp.
 
 Just then one of the customers at the far side rose suddenly and made for the door. It was close by him, and he was out in the street in a moment. But his hurry had attracted my notice, and I recognized him at glance. It was the tallow-faced man, wanting two fingers, who had come first to the Admiral Benbow.
 
-◊a[#:href "/images/0093.jpg"]{◊img[#:class "chapter-img" #:src "/images/0093m.png"]{}}
+◊a[#:href "images/0093.jpg"]{◊img[#:class "chapter-img" #:src "images/0093m.png"]{}}
 
 ◊dialog{"Oh,"} I cried, ◊dialog{"stop him! It's Black Dog!"}
 

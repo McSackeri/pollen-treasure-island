@@ -2,9 +2,9 @@
 
 ◊chapter-title{In the Enemy's Camp}
 
-◊a[#:href "/images/0261.jpg"]{◊img[#:class "chapter-img" #:src "/images/0261m.png"]{}}
+◊a[#:href "images/0261.jpg"]{◊img[#:class "chapter-img" #:src "images/0261m.png"]{}}
 
-◊a[#:href "/images/9261.jpg"]{◊img[#:src "/images/9261m.png" #:alt "T" #:class "drop-cap"]{}}HE red glare of the torch, lighting up the interior of the block house, showed me the worst of my apprehensions realized. The pirates were in possession of the house and stores: there was the cask of cognac, there were the pork and bread, as before, and what tenfold increased my horror, not a sign of any prisoner. I could only judge that all had perished, and my heart smote me sorely that I had not been there to perish with them.
+◊a[#:href "images/9261.jpg"]{◊img[#:src "images/9261m.png" #:alt "T" #:class "drop-cap"]{}}HE red glare of the torch, lighting up the interior of the block house, showed me the worst of my apprehensions realized. The pirates were in possession of the house and stores: there was the cask of cognac, there were the pork and bread, as before, and what tenfold increased my horror, not a sign of any prisoner. I could only judge that all had perished, and my heart smote me sorely that I had not been there to perish with them.
 
 There were six of the buccaneers, all told; not another man was left alive. Five of them were on their feet, flushed and swollen, suddenly called out of the first sleep of drunkenness. The sixth had only risen upon his elbow; he was deadly pale, and the blood-stained bandage round his head told that he had recently been wounded, and still more recently dressed. I remembered the man who had been shot and had run back among the woods in the great attack, and doubted not that this was he.
 
@@ -72,7 +72,7 @@ Morgan paused, but a hoarse murmur rose from the others.
 
 ◊dialog{"Did any of you gentlemen want to have it out with ME?"} roared Silver, bending far forward from his position on the keg, with his pipe still glowing in his right hand. ◊dialog{"Put a name on what you're at; you ain't dumb, I reckon. Him that wants shall get it. Have I lived this many years, and a son of a rum puncheon cock his hat athwart my hawse at the latter end of it? You know the way; you're all gentlemen o' fortune, by your account. Well, I'm ready. Take a cutlass, him that dares, and I'll see the colour of his inside, crutch and all, before that pipe's empty."}
 
-◊a[#:href "/images/0267.jpg"]{◊img[#:class "chapter-img" #:src "/images/0267m.png"]{}}
+◊a[#:href "images/0267.jpg"]{◊img[#:class "chapter-img" #:src "images/0267m.png"]{}}
 
 Not a man stirred; not a man answered.
 

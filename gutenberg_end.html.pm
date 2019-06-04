@@ -1,13 +1,13 @@
 #lang pollen
 
 
-End of Project Gutenberg's Treasure Island, by Robert Louis Stevenson
+◊chapter-title{End of Project Gutenberg's Treasure Island}
+by Robert Louis Stevenson
 
 *** END OF THIS PROJECT GUTENBERG EBOOK TREASURE ISLAND ***
 
 ***** This file should be named 120.txt or 120.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/1/2/120/
+This and all associated files of various formats will be found in: ◊a[#:href "http://www.gutenberg.org/1/2/120/"]{http://www.gutenberg.org/1/2/120/}
 
 Produced by Judy Boss, John Hamm and David Widger
 
@@ -356,7 +356,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+    ◊a[#:href " http://www.gutenberg.org"]{ http://www.gutenberg.org}
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary

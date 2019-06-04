@@ -2,9 +2,9 @@
 
 ◊chapter-title{The Fall of a Chieftain}
 
-◊a[#:href "/images/0306.jpg"]{◊img[#:class "chapter-img" #:src "/images/0306m.png"]{}}
+◊a[#:href "images/0306.jpg"]{◊img[#:class "chapter-img" #:src "images/0306m.png"]{}}
 
-◊a[#:href "/images/9306.jpg"]{◊img[#:src "/images/9306m.png" #:alt "T" #:class "drop-cap"]{}}HERE never was such an overturn in this world. Each of these six men was as though he had been struck. But with Silver the blow passed almost instantly. Every thought of his soul had been set full-stretch, like a racer, on that money; well, he was brought up, in a single second, dead; and he kept his head, found his temper, and changed his plan before the others had had time to realize the disappointment.
+◊a[#:href "images/9306.jpg"]{◊img[#:src "images/9306m.png" #:alt "T" #:class "drop-cap"]{}}HERE never was such an overturn in this world. Each of these six men was as though he had been struck. But with Silver the blow passed almost instantly. Every thought of his soul had been set full-stretch, like a racer, on that money; well, he was brought up, in a single second, dead; and he kept his head, found his temper, and changed his plan before the others had had time to realize the disappointment.
 
 ◊dialog{"Jim,"} he whispered, ◊dialog{"take that, and stand by for trouble."}
 
@@ -32,7 +32,7 @@ At last Merry seemed to think a speech might help matters.
 
 He was raising his arm and his voice, and plainly meant to lead a charge. But just then--crack! crack! crack!--three musket-shots flashed out of the thicket. Merry tumbled head foremost into the excavation; the man with the bandage spun round like a teetotum and fell all his length upon his side, where he lay dead, but still twitching; and the other three turned and ran for it with all their might.
 
-◊a[#:href "/images/0309.jpg"]{◊img[#:class "chapter-img" #:src "/images/0309m.png"]{}}
+◊a[#:href "images/0309.jpg"]{◊img[#:class "chapter-img" #:src "images/0309m.png"]{}}
 
 Before you could wink, Long John had fired two barrels of a pistol into the struggling Merry, and as the man rolled up his eyes at him in the last agony, ◊dialog{"George,"} said he, ◊dialog{"I reckon I settled you."}
 

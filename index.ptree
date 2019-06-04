@@ -1,5 +1,6 @@
 #lang pollen
 
+gutenberg_start.html
 cover.html
 toc.html
 preface.html
@@ -43,3 +44,4 @@ part6_ch31.html
 part6_ch32.html
 part6_ch33.html
 part6_ch34.html
+gutenberg_end.html

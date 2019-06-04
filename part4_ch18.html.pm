@@ -2,9 +2,9 @@
 
 ◊chapter-title{Narrative Continued by the Doctor: End of the First Day's Fighting}
 
-◊a[#:href "/images/0175.jpg"]{◊img[#:class "chapter-img"  #:src "/images/0175m.png"]{}}
+◊a[#:href "images/0175.jpg"]{◊img[#:class "chapter-img"  #:src "images/0175m.png"]{}}
 
-◊a[#:href "/images/9175.jpg"]{◊img[#:src "/images/9175m.png" #:alt "W" #:class "drop-cap"]{}}E made our best speed across the strip of wood that now divided us from the stockade, and at every step we took the voices of the buccaneers rang nearer. Soon we could hear their footfalls as they ran and the cracking of the branches as they breasted across a bit of thicket.
+◊a[#:href "images/9175.jpg"]{◊img[#:src "images/9175m.png" #:alt "W" #:class "drop-cap"]{}}E made our best speed across the strip of wood that now divided us from the stockade, and at every step we took the voices of the buccaneers rang nearer. Soon we could hear their footfalls as they ran and the cracking of the branches as they breasted across a bit of thicket.
 
 I began to see we should have a brush for it in earnest and looked to my priming.
 
@@ -99,4 +99,4 @@ A hail on the land side.
 
 And I ran to the door in time to see Jim Hawkins, safe and sound, come climbing over the stockade.
 
-◊a[#:href "/images/0179.jpg"]{◊img[#:class "chapter-img" #:src "/images/0179m.png"]{}}
+◊a[#:href "images/0179.jpg"]{◊img[#:class "chapter-img" #:src "images/0179m.png"]{}}

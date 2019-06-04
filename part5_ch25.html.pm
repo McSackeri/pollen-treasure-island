@@ -2,9 +2,9 @@
 
 ◊chapter-title{I Strike the Jolly Roger}
 
-◊a[#:href "/images/0234.jpg"]{◊img[#:class "chapter-img" #:src "/images/0234m.png"]{}}
+◊a[#:href "images/0234.jpg"]{◊img[#:class "chapter-img" #:src "images/0234m.png"]{}}
 
-◊a[#:href "/images/9234.jpg"]{◊img[#:src "/images/9234m.png" #:alt "I" #:class "drop-cap"]{}} HAD scarce gained a position on the bowsprit when the flying jib flapped and filled upon the other tack, with a report like a gun. The schooner trembled to her keel under the reverse, but next moment, the other sails still drawing, the jib flapped back again and hung idle.
+◊a[#:href "images/9234.jpg"]{◊img[#:src "images/9234m.png" #:alt "I" #:class "drop-cap"]{}} HAD scarce gained a position on the bowsprit when the flying jib flapped and filled upon the other tack, with a report like a gun. The schooner trembled to her keel under the reverse, but next moment, the other sails still drawing, the jib flapped back again and hung idle.
 
 This had nearly tossed me off into the sea; and now I lost no time, crawled back along the bowsprit, and tumbled head foremost on the deck.
 
@@ -54,7 +54,7 @@ He looked at me sourly enough but said nothing. Some of the colour had come back
 
 ◊dialog{"By the by,"} I continued, ◊dialog{"I can't have these colours, Mr. Hands; and by your leave, I'll strike 'em. Better none than these."}
 
-◊a[#:href "/images/0237.jpg"]{◊img[#:class "chapter-img" #:src "/images/0237m.png"]{}}
+◊a[#:href "images/0237.jpg"]{◊img[#:class "chapter-img" #:src "images/0237m.png"]{}}
 
 And again dodging the boom, I ran to the colour lines, handed down their cursed black flag, and chucked it overboard.
 

@@ -3,9 +3,9 @@
 
 ◊chapter-title{The Voyage}
 
-◊a[#:href "/images/0106.jpg"]{◊img[#:class "chapter-img" #:src "/images/0106m.png"]{}}
+◊a[#:href "images/0106.jpg"]{◊img[#:class "chapter-img" #:src "images/0106m.png"]{}}
 
-◊a[#:href "/images/9106.jpg"]{◊img[#:src "/images/9106m.png" #:alt "A" #:class "drop-cap"]{}}LL that night we were in a great bustle getting things stowed in their place, and boatfuls of the squire's friends, Mr. Blandly and the like, coming off to wish him a good voyage and a safe return. We never had a night at the Admiral Benbow when I had half the work; and I was dog-tired when, a little before dawn, the boatswain sounded his pipe and the crew began to man the capstan-bars. I might have been twice as weary, yet I would not have left the deck, all was so new and interesting to me--the brief commands, the shrill note of the whistle, the men bustling to their places in the glimmer of the ship's lanterns.
+◊a[#:href "images/9106.jpg"]{◊img[#:src "images/9106m.png" #:alt "A" #:class "drop-cap"]{}}LL that night we were in a great bustle getting things stowed in their place, and boatfuls of the squire's friends, Mr. Blandly and the like, coming off to wish him a good voyage and a safe return. We never had a night at the Admiral Benbow when I had half the work; and I was dog-tired when, a little before dawn, the boatswain sounded his pipe and the crew began to man the capstan-bars. I might have been twice as weary, yet I would not have left the deck, all was so new and interesting to me--the brief commands, the shrill note of the whistle, the men bustling to their places in the glimmer of the ship's lanterns.
 
 ◊dialog{"Now, Barbecue, tip us a stave,"} cried one voice.
 
@@ -71,7 +71,7 @@ We had run up the trades to get the wind of the island we were after--I am not a
 
 Now, just after sundown, when all my work was over and I was on my way to my berth, it occurred to me that I should like an apple. I ran on deck. The watch was all forward looking out for the island. The man at the helm was watching the luff of the sail and whistling away gently to himself, and that was the only sound excepting the swish of the sea against the bows and around the sides of the ship.
 
-◊a[#:href "/images/0111.jpg"]{◊img[#:class "chapter-img" #:src "/images/0111m.png"]{}}
+◊a[#:href "images/0111.jpg"]{◊img[#:class "chapter-img" #:src "images/0111m.png"]{}}
 
 In I got bodily into the apple barrel, and found there was scarce an apple left; but sitting down there in the dark, what with the sound of the waters and the rocking movement of the ship, I had either fallen asleep or was on the point of doing so when a heavy man sat down with rather a clash close by. The barrel shook as he leaned his shoulders against it, and I was just about to jump up when the man began to speak. It was Silver's voice, and before I had heard a dozen words, I would not have shown myself for all the world, but lay there, trembling and listening, in the extreme of fear and curiosity, for from these dozen words I understood that the lives of all the honest men aboard depended upon me alone.
 

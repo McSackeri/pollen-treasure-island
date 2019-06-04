@@ -2,9 +2,9 @@
 
 ◊chapter-title{Narrative Resumed by Jim Hawkins: The Garrison in the Stockade}
 
-◊a[#:href "/images/0182.jpg"]{◊img[#:class "chapter-img" #:src "/images/0182m.png"]{}}
+◊a[#:href "images/0182.jpg"]{◊img[#:class "chapter-img" #:src "images/0182m.png"]{}}
 
-◊a[#:href "/images/9182.jpg"]{◊img[#:src "/images/9182m.png" #:alt "A" #:class "drop-cap"]{}}S soon as Ben Gunn saw the colours he came to a halt, stopped me by the arm, and sat down.
+◊a[#:href "images/9182.jpg"]{◊img[#:src "images/9182m.png" #:alt "A" #:class "drop-cap"]{}}S soon as Ben Gunn saw the colours he came to a halt, stopped me by the arm, and sat down.
 
 ◊dialog{"Now,"} said he, ◊dialog{"there's your friends, sure enough."}
 
@@ -73,7 +73,7 @@ one side, and looked at me.
 
 Before supper was eaten we buried old Tom in the sand and stood round him for a while bare-headed in the breeze. A good deal of firewood had been got in, but not enough for the captain's fancy, and he shook his head over it and told us we ◊dialog{"must get back to this tomorrow rather livelier."} Then, when we had eaten our pork and each had a good stiff glass of brandy grog, the three chiefs got together in a corner to discuss our prospects.
 
-◊a[#:href "/images/0187.jpg"]{◊img[#:class "chapter-img" #:src "/images/0187m.png"]{}}
+◊a[#:href "images/0187.jpg"]{◊img[#:class "chapter-img" #:src "images/0187m.png"]{}}
 
 It appears they were at their wits' end what to do, the stores being so low that we must have been starved into surrender long before help came. But our best hope, it was decided, was to kill off the buccaneers until they either hauled down their flag or ran away with the HISPANIOLA. From nineteen they were already reduced to fifteen, two others were wounded, and one at least--the man shot beside the gun--severely wounded, if he were not dead. Every time we had a crack at them, we were to take it, saving our own lives, with the extremest care. And besides that, we had two able allies--rum and the climate.
 
