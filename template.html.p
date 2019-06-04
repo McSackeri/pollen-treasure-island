@@ -16,16 +16,16 @@
     </div>
     ◊(->html doc #:splice? #t)
 
+    ◊(define prev-page (previous here))
+    ◊when/splice[prev-page]{
     <div id="nav-left">
-        ◊(define prev-page (previous here))
-        ◊when/splice[prev-page]{
-        <div id="nav-left-text">← <a href="◊|prev-page|">◊(select 'h1 prev-page)</a></div>}
-    </div>
+        <div id="nav-left-text">← <a href="◊|prev-page|">◊(select 'h1 prev-page)</a></div>
+    </div>}
 
+    ◊(define next-page (next here))
+    ◊when/splice[next-page]{
     <div id="nav-right">
-        ◊(define next-page (next here))
-        ◊when/splice[next-page]{
-        <div id="nav-right-text"><a href="◊|next-page|">◊(select 'h1 next-page)</a> →</div>}
-    </div>
+        <div id="nav-right-text"><a href="◊|next-page|">◊(select 'h1 next-page)</a> →</div>
+    </div>}
 </body>
 </html>
