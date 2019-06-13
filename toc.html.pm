@@ -2,7 +2,7 @@
 
 ◊h1{CONTENTS}
 
-◊a[#:href "/images/0017.jpg"]{◊img[#:class "chapter-img" #:src "/images/0017m.png"]{}}
+◊a[#:href "images/0017.jpg"]{◊img[#:class "chapter-img" #:src "images/0017m.png"]{}}
 
      ◊a[#:href "preface.html"]{TREASURE ISLAND}
           

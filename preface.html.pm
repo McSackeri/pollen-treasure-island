@@ -26,4 +26,4 @@ And all my pirates share the grave
    Where these and their creations lie!}
 }
 
-◊a[#:href "/images/0028.jpg"]{◊img[#:class "chapter-img" #:src "/images/0028m.png"]{}}
+◊a[#:href "images/0028.jpg"]{◊img[#:class "chapter-img" #:src "images/0028m.png"]{}}
