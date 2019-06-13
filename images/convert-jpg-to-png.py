@@ -7,9 +7,14 @@
 # This way any background color can be used and still look
 # relatively nice on the illustrations.
 #
-# Image Magick Command
+# Image Magick Command Example
 #
 # magick convert 9037m.jpg -fx intensity -fuzz 15% -transparent white 9037m.png
+#
+# Helpful links
+# https://www.imagemagick.org/discourse-server/viewtopic.php?t=12619
+# https://imagemagick.org/script/convert.php
+
 
 from pathlib import Path
 import subprocess
