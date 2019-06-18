@@ -10,13 +10,13 @@
   
 ## Installing
 
-  Using the application is pretty simple.  It just requires an install of [Racket/Pollen](https://docs.racket-lang.org/pollen/Installation.html?q=pollen) and runs as a self-contained locally hosted website. Once you have it installed, simply run this raco command inside the directory:
+  Using the application is straightforward.  It just requires an installation of [Racket/Pollen](https://docs.racket-lang.org/pollen/Installation.html?q=pollen) and runs as a self-contained locally hosted website. Once you have it installed, simply run this raco command inside the directory:
   
 `raco pollen start`
 
 And then navigate to http://localhost:8080/index.ptree 
  
-  I also structured the code so that the static HTML that it generates can be navigated on its own, although the HTML pages are only compiled after navigating each page one time.
+ The code is also structured so that the static HTML that it generates can be navigated on its own, although the HTML pages are only compiled after navigating each page one time.
 
 ## TODO
   There's a number of improvements I would like to add eventually:
@@ -28,7 +28,7 @@ And then navigate to http://localhost:8080/index.ptree
      * Background colors
    
    
-   Who knows, it may even be possible some day to expand this into a full blown platform making it easier to import any book (something akin to [Bookiza](https://github.com/bookiza/bookiza.cli))
+   It may even be possible some day to expand this into a full blown platform making it easier to import any book (something akin to [Bookiza](https://github.com/bookiza/bookiza.cli))
 
 ## Helpful Links
 Here are some links that helped me along the way. Placing them here for reference.
