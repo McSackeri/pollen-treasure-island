@@ -57,3 +57,6 @@ https://www.theleagueofmoveabletype.com/
 
 #### Emacs command to add HTML tags
 https://www.johndcook.com/blog/2010/08/05/emacs-command-to-add-html-tags/
+
+## License
+All code for this project is released under the MIT license located in the LICENSE file.  Any fonts used have their own license located in their metadata tags. 
