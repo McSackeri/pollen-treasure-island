@@ -4,13 +4,18 @@
  
 ## Purpose
   
-  The purpose of this project was simply a personal goal of mine to learn the [Racket](https://docs.racket-lang.org) language, and more specifically in this case, [Pollen](https://docs.racket-lang.org/pollen/index.html?q=pollen).  I was strongly inspired by Matthew Butterick's advocacy of Lisp and Racket, and his online books.  I wanted a challenge myself to practice Pollen markup to see if I could use it proficiently enough to make an attractive book.  It was also an opportunity for me to learn HTML/CSS and practice some basic web design skills.  In the process I also found opportunities to learn a number of helpful tools and skills needed to complete it, such as Github, Image Magick, Emacs, TrueType fonts, and even a bit of Python scripting.
+  The purpose of this project was simply a personal goal of mine to learn the [Racket](https://docs.racket-lang.org) language, and more specifically in this case, [Pollen](https://docs.racket-lang.org/pollen/index.html?q=pollen).  I was strongly inspired by Matthew Butterick's advocacy of Lisp and Racket, and his online books.  I wanted a challenge myself to practice Pollen markup to see if I could pick it up well enough to make an attractive book. In the process I also found opportunities to learn a number of helpful tools and skills, such as:
+  * HTML/CSS design with True Type fonts
+  * Python for running Image Magick across all the JPGs in the image folder
+  * Modifying an Emacs macro for encapsulating regions with Pollen tags
+  * Github for source control
   
-  I chose Treasure Island, partly because it was fun, but also because it had a good consistent structure, and some unique challenges, such as the illustrations that allowed me to experiment a bit with my own markup.
+
+  I chose Treasure Island because it had a simple consistent structure that allowed me to comfortably experiment a bit with my own markup. That, and it was fun.
   
 ## Installing
 
-  Using the application is straightforward.  It just requires an installation of [Racket/Pollen](https://docs.racket-lang.org/pollen/Installation.html?q=pollen) and runs as a self-contained locally hosted website. Once you have it installed, simply run this raco command inside the directory:
+  Running the application is straightforward.  It just requires an installation of [Racket/Pollen](https://docs.racket-lang.org/pollen/Installation.html?q=pollen) and runs as a self-contained locally hosted website. Once you have it installed, simply run this raco command inside the directory:
   
 `raco pollen start`
 
@@ -49,3 +54,6 @@ https://imagemagick.org/script/convert.php
 
 #### The League of Moveable Fonts
 https://www.theleagueofmoveabletype.com/
+
+#### Emacs command to add HTML tags
+https://www.johndcook.com/blog/2010/08/05/emacs-command-to-add-html-tags/
